@@ -21,6 +21,7 @@ const Navbar = ({ onSearchOpen }: NavbarProps) => {
     { href: "#poezi", label: "Poezitë" },
     { href: "#proza", label: "Proza" },
     { href: "#biografia", label: "Rreth Migjenit" },
+    { href: "#galeri", label: "Galeria QR" },
   ];
 
   return (
