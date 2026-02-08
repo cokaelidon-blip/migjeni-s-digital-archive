@@ -43,7 +43,7 @@ const Navbar = ({
           </a>
 
           <div className="hidden md:flex items-center space-x-8">
-            {links.map(link => <a key={link.href} href={link.href} className="text-secondary-foreground/80 hover:text-secondary-foreground text-sm font-medium tracking-wide relative pb-1 after:content-[''] after:absolute after:bottom-0 after:left-1/2 after:w-0 after:h-px after:bg-primary after:transition-all after:duration-300 after:-translate-x-1/2 hover:after:w-full">Galeria{link.label}
+            {links.map(link => <a key={link.href} href={link.href} className="text-secondary-foreground/80 hover:text-secondary-foreground text-sm font-medium tracking-wide relative pb-1 after:content-[''] after:absolute after:bottom-0 after:left-1/2 after:w-0 after:h-px after:bg-primary after:transition-all after:duration-300 after:-translate-x-1/2 hover:after:w-full">{link.label}
               </a>)}
           </div>
 
