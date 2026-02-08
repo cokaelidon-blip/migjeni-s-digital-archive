@@ -79,9 +79,7 @@ const QRGallerySection = () => {
                 <p className="text-muted-foreground text-sm text-center">
                   {item.description}
                 </p>
-                <a href={item.imageUrl} target="_blank" rel="noopener noreferrer" className="mt-4 text-xs text-primary/60 hover:text-primary underline transition-colors">
-                  Hap linkun direkt →
-                </a>
+                
               </div>
             </motion.div>)}
         </div>
