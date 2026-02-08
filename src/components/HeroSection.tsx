@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ArrowRight } from "lucide-react";
+
 import heroBg from "@/assets/hero-bg.jpg";
 
 interface HeroSectionProps {
@@ -60,7 +60,7 @@ const HeroSection = ({ onSearchOpen }: HeroSectionProps) => {
             className="group px-8 py-4 bg-primary hover:bg-primary/90 text-primary-foreground font-semibold rounded-full transition-all flex items-center gap-2"
           >
             Eksploro Veprat
-            <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            
           </a>
           <button
             onClick={onSearchOpen}
