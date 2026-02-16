@@ -373,5 +373,54 @@ Autori paraqet dramën e individit që shkatërrohet nga kushtet sociale dhe eko
 - Çmendia — fundi i pashmangshëm i një jete pa dinjitet
 
 **Mesazhi:** Shoqëria që krijon varfëri, krijon edhe "mëkatin". Njeriu nuk bie nga natyra, por nga kushtet ku jeton. Hipokrizia morale është më e dëmshme se vetë mjerimi. Çdo individ ka nevojë për dinjitet, jo vetëm për mbijetesë.`
+  },
+  {
+    id: "recitaliMalsorit",
+    title: "Recitali i Malsorit",
+    year: 1936,
+    excerpt: "Malet e heshtuna thërrasin, me zâ të randë...",
+    emoji: "⛰️",
+    text: `Malet e heshtuna thërrasin,
+me zâ të randë, me zâ prej guri,
+e malsori i vorfën përgjon
+si bishë e trembun në terr.
+
+Kanga e tij asht vajtim,
+asht britmë e mbytun n'gji,
+asht urrejtje e vjetër
+që s'ka gjetë kurr shteg me dalë.
+
+Ai këndon për barkun bosh,
+për dimnin që s'ka mshirë,
+për fëmijët pa dritë
+e për shpresën që s'lind.
+
+O kangë e malsorit,
+ti s'je kangë gëzimi,
+por aktakuzë e fortë
+kundër jetës që s'e njeh njeriun.`,
+    analysis: `**Hyrja:** Poezia "Recitali i Malsorit" e Migjenit është një reflektim i thellë mbi vuajtjet e shtresës së varfër dhe të shtypur në shoqërinë shqiptare. Migjeni përmes imazhit të malsorit tregon revoltën e brendshme të njeriut që kërkon drejtësi dhe liri, por zëri i tij shpesh mbetet i shtypur nga realiteti i dhimbshëm.
+
+**Tema:**
+- *Varfëria dhe shtypja sociale:* Malsori përfaqëson popullin e varfër dhe të harruar.
+- *Revolta dhe dhimbja e brendshme:* Rebelimi ekziston, por zëri i tij shpesh mbetet i mbytur.
+- *Realizmi social:* Migjeni tregon mjerimin pa zbukurime, me tone të ashpra dhe të drejta.
+
+**Figura e malsorit:**
+- Malsori është një rebel i shtypur, që kërkon drejtësi.
+- "Kanga e tij asht vajtim, asht britmë e mbytun n'gji" — tregojnë dhimbjen dhe revoltën e penguar.
+- Ai simbolizon popullin e shtypur, që përpiqet të ngrihet, por sistemi e ndalon.
+
+**Titulli — "Recitali":**
+Normalisht, recital lidhet me festë ose performancë artistike, por këtu krijon ironi: recitali nuk është gëzim, por vajtim dhe aktakuzë. Migjeni përdor kontrastin mes pritshmërisë së bukur dhe realitetit të hidhur social.
+
+**Gjuha dhe stili:**
+- Gjuha është e fuqishme dhe emocionale: "vajtim", "britmë e mbytun", "urrejtje e vjetër".
+- Stili është realist dhe kritik, duke treguar vuajtjen e popullit pa zbukurime.
+- Ton i errët dhe serioz, tipik për Migjenin.
+
+**Mesazhi:** Shoqëria që shtyp njeriun krijon revoltë. Edhe kur zëri mbytet, dhimbja dhe revoltimi ekzistojnë. Poezia është një kërkesë për drejtësi dhe vëmendje ndaj vuajtjes së shtresave të margjinalizuara.
+
+**Përfundimi:** Malsori nuk është vetëm një figurë individuale, por simbol i popullit shqiptar që përballet me varfërinë dhe shtypjen.`
   }
 ];
