@@ -5,6 +5,7 @@ import PoetrySection from "@/components/PoetrySection";
 import ProseSection from "@/components/ProseSection";
 import BiographySection from "@/components/BiographySection";
 import QRGallerySection from "@/components/QRGallerySection";
+import FormSection from "@/components/FormSection";
 import SearchModal from "@/components/SearchModal";
 import PoemModal from "@/components/PoemModal";
 import Footer from "@/components/Footer";
@@ -26,6 +27,7 @@ const Index = () => {
       <ProseSection />
       <BiographySection />
       <QRGallerySection />
+      <FormSection />
       <Footer />
 
       <SearchModal
