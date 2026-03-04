@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ChevronRight } from "lucide-react";
-import { poems, Poem } from "@/data/poems";
+import { poemList, Poem } from "@/data/poems";
 
 interface PoetrySectionProps {
   onPoemSelect: (poem: Poem) => void;
@@ -32,7 +32,7 @@ const PoetrySection = ({ onPoemSelect }: PoetrySectionProps) => {
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {poems.map((poem, i) => (
+          {poemList.map((poem, i) => (
             <motion.article
               key={poem.id}
               initial={{ opacity: 0, y: 30 }}

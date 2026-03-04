@@ -1,6 +1,19 @@
 import { motion } from "framer-motion";
+import { ChevronRight } from "lucide-react";
+import { proseList, Poem } from "@/data/poems";
 
-const ProseSection = () => {
+interface ProseSectionProps {
+  onPoemSelect: (poem: Poem) => void;
+}
+
+const colorClasses = [
+  "from-rose-100 to-rose-200",
+  "from-emerald-100 to-emerald-200",
+  "from-sky-100 to-sky-200",
+  "from-amber-100 to-amber-200",
+];
+
+const ProseSection = ({ onPoemSelect }: ProseSectionProps) => {
   return (
     <section id="proza" className="py-24 px-4 bg-muted/50">
       <div className="max-w-7xl mx-auto">
@@ -11,65 +24,45 @@ const ProseSection = () => {
           <h2 className="font-playfair text-4xl md:text-5xl text-foreground font-bold mt-4">
             Proza
           </h2>
+          <p className="text-muted-foreground mt-6 max-w-2xl mx-auto text-lg">
+            Tregimet dhe novelat e Migjenit pasqyrojnë realitetin e hidhur të shoqërisë shqiptare.
+          </p>
         </div>
 
-        <div className="grid md:grid-cols-2 gap-8">
-          <motion.article
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            className="bg-card rounded-2xl overflow-hidden shadow-lg group"
-          >
-            <div className="h-48 bg-gradient-to-br from-secondary to-foreground relative overflow-hidden">
-              <div className="absolute inset-0 flex items-center justify-center">
-                <span className="text-6xl opacity-30">📖</span>
-              </div>
-              <div className="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-foreground/60 to-transparent" />
-              <div className="absolute bottom-4 left-6">
-                <span className="px-3 py-1 bg-primary text-primary-foreground text-xs font-semibold rounded-full">
-                  NOVELË
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {proseList.map((item, i) => (
+            <motion.article
+              key={item.id}
+              initial={{ opacity: 0, y: 30 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.5, delay: i * 0.1 }}
+              onClick={() => onPoemSelect(item)}
+              className="group bg-card rounded-2xl p-8 shadow-md hover:shadow-xl cursor-pointer transition-all duration-400 hover:-translate-y-2"
+            >
+              <div className="flex items-start justify-between mb-6">
+                <div className={`w-12 h-12 rounded-xl bg-gradient-to-br ${colorClasses[i % colorClasses.length]} flex items-center justify-center`}>
+                  <span className="text-2xl">{item.emoji}</span>
+                </div>
+                <span className="px-3 py-1 bg-primary/10 text-primary text-xs font-semibold rounded-full">
+                  PROZË
                 </span>
               </div>
-            </div>
-            <div className="p-8">
-              <h3 className="font-playfair text-2xl font-semibold text-foreground mb-3 group-hover:text-primary transition-colors">
-                Novela e Qytetit të Veriut
+              <h3 className="font-playfair text-xl font-semibold text-foreground mb-3 group-hover:text-primary transition-colors">
+                {item.title}
               </h3>
-              <p className="text-muted-foreground leading-relaxed mb-4">
-                Një vepër ku realiteti i ashpër i varfërisë përzihet me ëndrrat e thyera të banorëve.
+              <p className="text-muted-foreground text-sm leading-relaxed mb-4">
+                "{item.excerpt}"
               </p>
-              <span className="text-sm text-muted-foreground">~45 minuta lexim</span>
-            </div>
-          </motion.article>
-
-          <motion.article
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ delay: 0.1 }}
-            className="bg-card rounded-2xl overflow-hidden shadow-lg group"
-          >
-            <div className="h-48 bg-gradient-to-br from-primary/80 to-primary relative overflow-hidden">
-              <div className="absolute inset-0 flex items-center justify-center">
-                <span className="text-6xl opacity-30">✉️</span>
+              {item.author && (
+                <p className="text-xs text-primary/70 font-medium mb-3">nga {item.author}</p>
+              )}
+              <div className="flex items-center text-primary text-sm font-medium">
+                <span>Lexo & Analizo</span>
+                <ChevronRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
               </div>
-              <div className="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-foreground/60 to-transparent" />
-              <div className="absolute bottom-4 left-6">
-                <span className="px-3 py-1 bg-card text-foreground text-xs font-semibold rounded-full">
-                  LETËRKËMBIM
-                </span>
-              </div>
-            </div>
-            <div className="p-8">
-              <h3 className="font-playfair text-2xl font-semibold text-foreground mb-3 group-hover:text-primary transition-colors">
-                Letrat e Migjenit
-              </h3>
-              <p className="text-muted-foreground leading-relaxed mb-4">
-                Korrespondenca personale që zbulon mendimet e thella të poetit për jetën dhe artin.
-              </p>
-              <span className="text-sm text-muted-foreground">32 shkronja të ruajtura</span>
-            </div>
-          </motion.article>
+            </motion.article>
+          ))}
         </div>
       </div>
     </section>

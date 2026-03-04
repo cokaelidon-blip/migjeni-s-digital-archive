@@ -7,9 +7,265 @@ export interface Poem {
   text: string;
   analysis: string;
   author?: string;
+  type: "poezi" | "proze";
 }
 
 export const poems: Poem[] = [
+  {
+    id: "recitaliMalsorit",
+    title: "Recitali i Malsorit",
+    year: 1936,
+    excerpt: "Malet e heshtuna thërrasin, me zâ të randë...",
+    emoji: "⛰️",
+    author: "Klevisa Tafhasi",
+    type: "poezi",
+    text: `Malet e heshtuna thërrasin,
+me zâ të randë, me zâ prej guri,
+e malsori i vorfën përgjon
+si bishë e trembun në terr.
+
+Kanga e tij asht vajtim,
+asht britmë e mbytun n'gji,
+asht urrejtje e vjetër
+që s'ka gjetë kurr shteg me dalë.
+
+Ai këndon për barkun bosh,
+për dimnin që s'ka mshirë,
+për fëmijët pa dritë
+e për shpresën që s'lind.
+
+O kangë e malsorit,
+ti s'je kangë gëzimi,
+por aktakuzë e fortë
+kundër jetës që s'e njeh njeriun.`,
+    analysis: `**Hyrja:** Poezia "Recitali i Malsorit" e Migjenit është një reflektim i thellë mbi vuajtjet e shtresës së varfër dhe të shtypur në shoqërinë shqiptare. Migjeni përmes imazhit të malsorit tregon revoltën e brendshme të njeriut që kërkon drejtësi dhe liri, por zëri i tij shpesh mbetet i shtypur nga realiteti i dhimbshëm.
+
+**Tema:**
+- *Varfëria dhe shtypja sociale:* Malsori përfaqëson popullin e varfër dhe të harruar.
+- *Revolta dhe dhimbja e brendshme:* Rebelimi ekziston, por zëri i tij shpesh mbetet i mbytur.
+- *Realizmi social:* Migjeni tregon mjerimin pa zbukurime, me tone të ashpra dhe të drejta.
+
+**Figura e malsorit:**
+- Malsori është një rebel i shtypur, që kërkon drejtësi.
+- "Kanga e tij asht vajtim, asht britmë e mbytun n'gji" — tregojnë dhimbjen dhe revoltën e penguar.
+- Ai simbolizon popullin e shtypur, që përpiqet të ngrihet, por sistemi e ndalon.
+
+**Titulli — "Recitali":**
+Normalisht, recital lidhet me festë ose performancë artistike, por këtu krijon ironi: recitali nuk është gëzim, por vajtim dhe aktakuzë. Migjeni përdor kontrastin mes pritshmërisë së bukur dhe realitetit të hidhur social.
+
+**Gjuha dhe stili:**
+- Gjuha është e fuqishme dhe emocionale: "vajtim", "britmë e mbytun", "urrejtje e vjetër".
+- Stili është realist dhe kritik, duke treguar vuajtjen e popullit pa zbukurime.
+- Ton i errët dhe serioz, tipik për Migjenin.
+
+**Mesazhi:** Shoqëria që shtyp njeriun krijon revoltë. Edhe kur zëri mbytet, dhimbja dhe revoltimi ekzistojnë. Poezia është një kërkesë për drejtësi dhe vëmendje ndaj vuajtjes së shtresave të margjinalizuara.
+
+**Përfundimi:** Malsori nuk është vetëm një figurë individuale, por simbol i popullit shqiptar që përballet me varfërinë dhe shtypjen.`
+  },
+  {
+    id: "naTbirShekullit",
+    title: "Na t'bir e shekullit t'ri",
+    year: 1936,
+    excerpt: "Na të birtë e shekullit të ri, filizat e një toke së rimun me lot...",
+    emoji: "✊",
+    author: "Orjada Deda",
+    type: "poezi",
+    text: `Na të birtë e shekullit të ri,
+që plakun e lamë në "shejtnin" e tij
+e çuem grushtin për me luftue
+ndër lufta të reja
+dhe me fitue...
+
+Na të birtë e shekullit të ri,
+filizat e një toke së rimun me lot,
+ku djersë e ballit u dikonte kot -
+se dheu ynë qe kafshatë e huej
+dhe në marrzi duhej shum shtRejtë t'u paguhej.
+
+Na të birtë e shekullit të ri,
+vllazën të lindun e të rritun në zi,
+kur tinglloi çast' i ynë i mbramë
+edhe fatlumë
+ditëm me thanë :
+S'duem me humbë
+në lojë të përgjaktë të historis njerzore,
+jo! jo! s'i duem humbjet prore -
+duem ngadhnim!
+ngadhnim, ndërgjegje dhe mendimi të lirë!
+
+S'duem, për hir
+të kalbsinave të vjetra, që kërkojnë "shejtnim",
+të zhytemi prap në pellgun e mjerimit
+që të vajtojmë prap kangën e trishtimit,
+kangën monotone, pa shpirt, të sklavnis -
+të jem' një thumb i ngulun ndër trutë e njerzis.
+
+Na të birtë e shekullit të ri,
+me hovin ton e të ndezun peshë,
+ndër lufta të reja kemi m'u ndeshë
+dhe për fitore kem' me ra fli.`,
+    analysis: `**Lloji i veprës:** Poezi lirike me karakter shoqëror dhe protestues.
+
+**Tema:** Revolta e brezit të ri kundër padrejtësive shoqërore dhe kundër mentalitetit të vjetër.
+
+**Ideja:** Brezi i ri është i vetëdijshëm për mjerimin dhe hipokrizinë e kohës së vet dhe nuk pranon të heshtë. Ai kërkon përmbysje të realitetit të kalbur.
+
+**Motivet kryesore:** Mjerimi, Zemërimi, Përmbysja, Brezi i ri, E ardhmja
+
+**Subjekti:** Poeti flet në emër të rinisë së kohës së tij. Ata e shohin realitetin e hidhur, ndihen të zhgënjyer dhe shpërthejnë në revoltë. Nuk pajtohen me shoqërinë e padrejtë dhe kërkojnë ndryshim rrënjësor.
+
+**Mesazhi:** Mos u pajto me padrejtësinë. Brezi i ri duhet të zgjohet dhe të luftojë për një botë më të drejtë.
+
+**Qëndrimi i autorit:** Rebel, Ironik, Kritik, Sfiduese
+
+**Figuracioni letrar:**
+- *Metafora* – rinia si forcë shpërthyese
+- *Antiteza* – e vjetra ↔ e reja
+- *Ironia* – ndaj shoqërisë dhe hipokrizisë
+- *Përsëritje* – për theksim emocional
+- *Epitetet e forta* – për të theksuar mjerimin
+
+**Gjuha:** E drejtpërdrejtë, e ashpër, me ngarkesë emocionale, pa zbukurime romantike.
+
+**Stili:** Modern, i çliruar nga rregullat tradicionale. Shpreh mendim kritik dhe filozofik.
+
+**Metrika:** Varg i lirë, pa skemë të rregullt rimash, numër i pabarabartë rrokjesh, ritëm i brendshëm i krijuar nga përsëritjet dhe theksi emocional.
+
+*Punoi: Orjada Deda*`
+  },
+  {
+    id: "kangetEPaKendueme",
+    title: "Kangët e pa këndueme",
+    year: 1936,
+    excerpt: "Thellë në veten teme flejnë kangët e pakëndueme...",
+    emoji: "🌋",
+    author: "Aleida Kastrati",
+    type: "poezi",
+    text: `Thellë në veten teme flejnë kangët e pakëndueme
+të cilat ende vuejtja as gëzimi s'i nxori,
+të cilat flejnë e presin një ditë ma të lumnueme
+me shpërthye, m'u këndue pa frigë e pa zori.
+
+Thelltë në veten teme kangët e miajesin...
+e unë jam vullkani që fle i fashitun,
+por kur t'i vijë dita të gjitha ka me i qitun
+në një mijë ngjyra të bukra që nuk vdesin.
+
+Por a do të vijë dita kangët me u zgjue?
+Apo ndoshta shekujt me ne prap po tallen?
+Jo! Jo! Se liria filloi me lulzue
+dhe e ndjej nga Dielli valën.
+
+O kangët që fleni reliktet e mia
+q'ende s'keni prekun as një zemër të huej,
+vetëm unë me ju po kënaqem si fëmia
+unë- djepi juej; ndoshta vorri juej.`,
+    analysis: `**Autori dhe rryma letrare:** Migjeni është përfaqësues i realizmit kritik me elemente moderniste. Në veprat e tij trajton konfliktin mes idealit dhe realitetit, revoltën e brendshme, mjerimin dhe krizën shpirtërore. Kjo poezi ka karakter introspektiv dhe filozofik.
+
+**Tema:** Tema kryesore është forca krijuese që fle brenda individit dhe pritja për momentin e lirisë për ta shprehur atë.
+
+**Subjekti:** Subjekti lirik është individual. Poeti flet në vetën e parë dhe shpreh gjendjen e tij të brendshme. Ai e paraqet veten si një vullkan të fashitur, që ruan brenda energji të fuqishme krijuese. Kangët përfaqësojnë potencialin e tij artistik që pret kohën e duhur për të shpërthyer.
+
+**Ideja:** Ideja kryesore është se krijimtaria dhe shpresa nuk zhduken, edhe kur shtypen. Ato mund të qëndrojnë të fshehura për një kohë, por në momentin e duhur do të dalin në dritë. Poeti shpreh besimin se liria do të vijë dhe do t'i japë mundësi shpërthimit të artit.
+
+**Mesazhi:** Mesazhi i poezisë është se arti i vërtetë kërkon liri. Pa liri, krijimtaria mbetet e mbyllur brenda shpirtit. Por kur lind liria, ajo shpërthen në forma të bukura që nuk vdesin.
+
+**Motivet kryesore:** Krijimtaria e fshehur, Pritja, Shpresa, Liria, Revolta e brendshme, Dyshimi për të ardhmen
+
+**Figurat letrare:**
+- *Metafora:* "Kangët e pakëndueme" – simbol i ideve të pashprehura. "Unë jam vullkani që fle i fashitun" – simbol i forcës së përmbajtur. "Djepi… vorri" – simbol i fillimit dhe fundit të krijimtarisë.
+- *Personifikimi:* "Kangët flejnë" – idetë paraqiten si qenie të gjalla.
+- *Pyetje retorike:* "A do të vijë dita…?" – shpreh pasiguri dhe ankth.
+- *Alegoria:* "Dielli" – simbol i lirisë dhe shpresës.
+- *Përsëritja:* "Jo! Jo!" – thekson vendosmërinë dhe optimizmin.
+
+*Punoi: Aleida Kastrati*`
+  },
+  {
+    id: "njeNatePaGjume",
+    title: "Një natë pa gjumë",
+    year: 1936,
+    excerpt: "Pak dritë! Pak dritë! Pak dritë, o shok, o vlla...",
+    emoji: "🌙",
+    author: "Anxhela Sala",
+    type: "poezi",
+    text: `Pak dritë! Pak dritë! Pak dritë, o shok, o vlla.
+Të lutem, pak dritë në kët natë kur shpirti vuen,
+kur të dhemb e s'di ç'të dhemb, e syni gjum nuk ka,
+urren nuk din ç'urren, don e s'din se ç'don.
+
+Pak dritë! 0 burrë! 0 hero' ngado që të jesh. ...
+Burrë që shkatrron edhe që ndërton sërish!
+Pak dritë vetëm, të lutem, mshirë të kesh,
+se do çmendem në kët natë pa gjumë dhe pa pishë.
+
+Oh! ta kisha pishën të madhe edhe të ndezun!
+Me flakën e pishës në qiellin e ksaj nate
+ta shkruejshe kushtrimin... Ehu Burrë i tretun
+Do ta shifsha vallen tande në majë të një shpate.
+
+Porpishë nuk karn e vetëmjanë burrat, shokët...
+Dergjem n'errsin pa gjumë dhe pa dritë...
+Askush s'më ndigjon, çirren kot më kot...
+Hesht more, hesht! por qindro, o shpirt.
+
+Gjeli këndon dhe thotë se asht afër drita
+- Gjel, rren a s'rren? cila asht fjala ejote?
+Kur ti këndon thonë se asht afer drita...
+Por un s'besoj sonte në Çalët e ksaj bote.
+
+Hiqmuni qafe, mendimet
+Ojastëk ty të rroki, të përqafoj si shpëtimin,
+më fal atë që due: gjumin dhe andm'min
+e dy buzve që pëshpërisin ngushllimin.`,
+    analysis: `**Tema:** Tema kryesore e poezisë është vuajtja e thellë shpirtërore e njeriut, errësira morale dhe sociale, si edhe mungesa e shpresës në një shoqëri të padrejtë.
+
+**Shekulli dhe rryma letrare:** Shekulli XX, Realizëm kritik (me elemente ekspresioniste)
+
+**Ideja kryesore:** Migjeni shpreh gjendjen e ankthit dhe dëshpërimit të njeriut që kalon një natë pa gjumë, i mbytur nga mendimet, dhimbja dhe errësira. Kërkesa e vazhdueshme për "pak dritë" simbolizon thirrjen për shpëtim, drejtësi dhe ndryshim, por kjo thirrje mbetet pa përgjigje.
+
+**Subjekti lirik:** Subjekti lirik është "unë"-ja poetike, një njeri i vetmuar, i lodhur shpirtërisht, që flet në emër të atyre që vuajnë dhe nuk gjejnë mbështetje.
+
+**Figurat letrare:**
+- *Simboli:* Drita → shpresë, drejtësi, ndërgjegje shoqërore. Errësira / nata → vuajtje, padije, mjerim.
+- *Përsëritja:* "Pak dritë! Pak dritë!" → thekson dëshpërimin dhe lutjen e fortë
+- *Metafora:* "shpirti vuen", "dergjem n'errsin" → gjendje e rëndë psikologjike
+- *Personifikimi:* gjeli këndon dhe thotë → shpresë e rreme, pritje mashtruese
+
+**Gjuha dhe stili:** Gjuha është e drejtpërdrejtë, e fortë dhe protestuese, tipike për Migjenin. Toni është i errët, dramatik dhe pesimist, duke pasqyruar realitetin e dhimbshëm të kohës.
+
+**Mesazhi:** Poezia përcjell mesazhin se njeriu që jeton në mjerim dhe padrejtësi humbet besimin te fjalët dhe premtimet boshe. Migjeni kërkon zgjimin e ndërgjegjes njerëzore dhe një ndryshim.
+
+*Punoi: Anxhela Sala*`
+  },
+  {
+    id: "poemaEMjerimit",
+    title: "Poema e mjerimit",
+    year: 1936,
+    excerpt: "Mjerimi tërbohet, mjerimi punon, mjerimi rrit fëmin...",
+    emoji: "😢",
+    author: "Gabriela Lushi",
+    type: "poezi",
+    text: `Poema e mjerimit është një pjesë e ciklit "Këngët e mjerimit", një ndër ciklet më të rëndësishme të krijimtarisë të Migjenit. Në këtë cikël poeti pasqyron realitetin e zymtë social të shoqërisë shqiptare të viteve '30, duke denoncuar varfërinë, padrejtësinë shoqërore, hipokrizinë fetare dhe indiferencën njerëzore.`,
+    analysis: `**Tema:** Tema kryesore e poemës është mjerimi shoqëror dhe njerëzor, i shfaqur në të gjitha format e tij.
+
+**Subjekti:** Subjekti i poemes paraqet mjerimin si një realitet të gjithanshëm që shoqëron jetën e njeriut nga lindja deri në vdekje. Poema përshkruan vuajtjen e shtresave të varfra përmes pamjeve të urisë, sëmundjes, punës së rëndë pa shpërblim, degradimit moral dhe shpirtëror.
+
+**Lloji i vargut:** Varg i lirë: Poezia nuk ndjek një metrikë të rregullt klasike, por ka gjatësi të ndryshme vargjesh. Ritmi ndërtohet më shumë mbi ngarkesën emocionale, përsëritjen e fjalëve ("Mjerimi…") dhe figurat stilistike.
+
+**Rima:** Rima është e lirë dhe jo e rregullt. Në disa raste, Migjeni përdor asonanca dhe aliteracion për të krijuar muzikë të brendshme.
+
+**Figurat letrare:**
+- *Metafora:* "Kafshatë që s'kapërdihet asht mjerimi" — mjerimi paraqitet si diçka që të mbyt. "Gotë e helmit" — simbol i trashëgimisë së vuajtjes brez pas brezi.
+- *Personifikimi:* "Mjerimi tërbohet", "mjerimi punon", "mjerimi rrit fëmin" — mjerimi merr tipare njerëzore dhe shndërrohet në një qenie aktive, mizore.
+- *Simboli:* Djepi i skamit — fëmijëria e dënuar që në lindje. Zhelet — shpresa e shkatërruar dhe varfëria ekstreme. Gota — arratisja e rreme nga vuajtja përmes alkoolit.
+- *Epitetet:* "bark shekulluer", "tryezë e flliqtë", "pijetore të qelbta" - theksojnë neverinë dhe degradimin moral.
+- *Kontrasti:* Varfëria e lypsit — luksi i zotërinjve. Vuajtja njerëzore — heshtja fetare.
+
+**Mesazhi:** Mjerimi nuk kërkon mëshirë, por drejtësi. Migjeni dënon shoqërinë që pranon mjerimin si normalitet dhe kritikon ashpër institucionet fetare dhe shtresat e pasura që mbyllin sytë përballë vuajtjes njerëzore.
+
+*Punoi: Gabriela Lushi*`
+  },
   {
     id: "bukenTone",
     title: "Bukën tonë të përditshme falna, Zot",
@@ -17,6 +273,7 @@ export const poems: Poem[] = [
     excerpt: "Buke te bardhe, nane, iha qysh kur s'kena hanger!",
     emoji: "🍞",
     author: "Ansuel Sokoli",
+    type: "proze",
     text: `– Lil! Hajde, nanë, hajde, me ra me fjete, se te ka shtrue nana.
 
 – Jo pra, jo! Aspak! S'due me fjete! Due me prite babën.
@@ -154,6 +411,7 @@ Dhe nje dite, kur Lilin, mbas etheve te forta e zu gjumi, e ama e ndryni shtepin
     excerpt: "Luli, fëmija i varfër që shikon botën me sy të mëdhenj...",
     emoji: "👦",
     author: "Lorenc Halili",
+    type: "proze",
     text: `Luli i Vocërr është tregimi i një fëmije të varfër që përjeton padrejtësitë e botës në mënyrën më të thjeshtë — përmes çizmeve që s'i ka, tollumbave që s'i lozën, dhe diellit që nuk e ngroh mjaftueshëm.
 
 Ecën ngadalë nëpër oborrin e shkollës, me këmbë zbathura, me hundë të kuqe nga ftohti, me grishura në veshje. Shikon shokët e tij që luajnë, por nuk guxon t'u afrohet. Shokët e pasur kanë çizme, kanë tollumba, kanë buzëqeshje.
@@ -193,6 +451,7 @@ Dielli shndrit mbi oborr, por rrezet e tij nuk arrijnë deri te Luli. Si fluturo
     excerpt: "Lukja, një grua e shtyrë nga varfëria...",
     emoji: "💔",
     author: "Emanuel Molla",
+    type: "proze",
     text: `Kjo pjesë rrëfen historinë tragjike të Lukes, një grua e shtyrë nga varfëria të bëhet prostitutë. Ajo shfrytëzohet nga shoqëria, ëndërron një jetë të qetë familjare, por përfundon e zhgënjyer, e varfëruar dhe në fund çmendet.
 
 Lukja ishte vajzë e varfër. Jeta ia kishte mbyllur të gjitha dyert. Shoqëria e shikonte me përbuzje, por njëkohësisht e shfrytëzonte. Studentët dhe klientët e quan "hyjneshë" — por vetëm sa ishte mall tregu.
@@ -237,53 +496,54 @@ Autori paraqet dramën e individit që shkatërrohet nga kushtet sociale dhe eko
 **Mesazhi:** Shoqëria që krijon varfëri, krijon edhe "mëkatin". Njeriu nuk bie nga natyra, por nga kushtet ku jeton. Hipokrizia morale është më e dëmshme se vetë mjerimi. Çdo individ ka nevojë për dinjitet, jo vetëm për mbijetesë.`
   },
   {
-    id: "recitaliMalsorit",
-    title: "Recitali i Malsorit",
+    id: "bukuriaQeVret",
+    title: "Bukuria që vret",
     year: 1936,
-    excerpt: "Malet e heshtuna thërrasin, me zâ të randë...",
-    emoji: "⛰️",
-    author: "Klevisa Tafhasi",
-    text: `Malet e heshtuna thërrasin,
-me zâ të randë, me zâ prej guri,
-e malsori i vorfën përgjon
-si bishë e trembun në terr.
+    excerpt: "Hana e zbetë, si fytyra e nji të vdekuri, kundron nga kupa e qiellës...",
+    emoji: "❄️",
+    author: "Elena Ceku",
+    type: "proze",
+    text: `Hana e zbetë, si fytyra e nji të vdekuri, kundron nga kupa e qiellës. Kundron botën e maleve të kristalizueme nga bora. Kundron kasollat e kristalizueme të katundit, të cilat as frymë nuk marrin. Të gjitha janë mbështjellë në bardhsin e borës. Vret shpirtin e malsorit siç vret shpirtin e artistit shtatorja e barshë e nji grue së lakuriqët.
 
-Kanga e tij asht vajtim,
-asht britmë e mbytun n'gji,
-asht urrejtje e vjetër
-që s'ka gjetë kurr shteg me dalë.
+E në kasolle, e cila gjëmon nën barrën e borës, derdhen dy ngjyra kuq e zi. I kuq zjarmi i votrës në mes të kasolless, e i zi rrethi. Të zeza, t'errta janë skutat e kasolles, nga ndigjohet blegrim i mekun i ndoj delja ose kumbona e lopës. E dhe ato i vret buluria e bardhë. Nga goja u del avulli i afsheve që ngrihet n'ajr, bjen mbi qimet e tyne si brymë dhe kristalizohet. Heshtje. Gjithçkafja e kristalizueme.
 
-Ai këndon për barkun bosh,
-për dimnin që s'ka mshirë,
-për fëmijët pa dritë
-e për shpresën që s'lind.
+Nji dorë shtrihet, zen nji dru e shpupurish zjarmin. Rropos nji "botë gacash". Flaka lëpin errësinën e shkëndijat kërcejnë nën tra dhe nëpër fëtyra rreth votrës. E trupnat e njerzve dridhen, nëpër korriz u përshkohet të ftoftit, që vjen nga skutat, andej nga errsina. Brrr…uf..andej mbrapa shpinet përpijnë errsina me të ftohtit e saj.
 
-O kangë e malsorit,
-ti s'je kangë gëzimi,
-por aktakuzë e fortë
-kundër jetës që s'e njeh njeriun.`,
-    analysis: `**Hyrja:** Poezia "Recitali i Malsorit" e Migjenit është një reflektim i thellë mbi vuajtjet e shtresës së varfër dhe të shtypur në shoqërinë shqiptare. Migjeni përmes imazhit të malsorit tregon revoltën e brendshme të njeriut që kërkon drejtësi dhe liri, por zëri i tij shpesh mbetet i shtypur nga realiteti i dhimbshëm.
+-Po shiko mos ngrinë Laroja??
 
-**Tema:**
-- *Varfëria dhe shtypja sociale:* Malsori përfaqëson popullin e varfër dhe të harruar.
-- *Revolta dhe dhimbja e brendshme:* Rebelimi ekziston, por zëri i tij shpesh mbetet i mbytur.
-- *Realizmi social:* Migjeni tregon mjerimin pa zbukurime, me tone të ashpra dhe të drejta.
+Dhe çohen, i lëshojnë vend rreth zjarmit Larojës, lopës së shtëpisë. Të nxehet dhe ky pjestar familje në kasollen e kristalizueme. E Laroja din si duhet me u shtrimë rreth zjarmit. Po me trupin e saj të math, gati shtypi dy vocrrakë, të cilët i kish zanë gjumi pranë zjarmit.
 
-**Figura e malsorit:**
-- Malsori është një rebel i shtypur, që kërkon drejtësi.
-- "Kanga e tij asht vajtim, asht britmë e mbytun n'gji" — tregojnë dhimbjen dhe revoltën e penguar.
-- Ai simbolizon popullin e shtypur, që përpiqet të ngrihet, por sistemi e ndalon.
+E kur, andej nga mesnata, acarimi arrin dhe kulmin e vet, atëhere ndër bagëti fillon nji lëvizje. Po, nji lëvizje. Nji nga nji u aviten njerëyve e me syt e vet si me u lutë: "na lëshoni dhe neve të ngrofemi pak rreth yjarmit, se u ngrimë". Dhe njeryit kundrejt njerzve s'kanë mëshirë, po kundrejt shtazve -po. Prandej çohen, ua lëshojnë bagëtis vendin rreth votrës, e ata vetë shkojnë n'errësinë që përpinë.
 
-**Titulli — "Recitali":**
-Normalisht, recital lidhet me festë ose performancë artistike, por këtu krijon ironi: recitali nuk është gëzim, por vajtim dhe aktakuzë. Migjeni përdor kontrastin mes pritshmërisë së bukur dhe realitetit të hidhur social.
+…..Dhe agimi zbardhë me bukurinë e bardhë që vret. Çohen njerzit me trupnat e mpime dhe me kujtim në ndërgjegje se u kalua dhe nji natë e vështirë. U çuen, por nuk çohet nji vocrrak. Dora e s'amës shtrihet bi të dhe mÇat çast nji britmë e tmerrshme shpoi zemrat e kasolles. Dhimba e nji nanës i shkrinë zemrat në vaj, por ç'e do kur nuk shkrin zemrën e vocrrakut.
 
-**Gjuha dhe stili:**
-- Gjuha është e fuqishme dhe emocionale: "vajtim", "britmë e mbytun", "urrejtje e vjetër".
-- Stili është realist dhe kritik, duke treguar vuajtjen e popullit pa zbukurime.
-- Ton i errët dhe serioz, tipik për Migjenin.
+Po, ishte ngrimë lokia e nanës. Gjaku i tij i kuq dhe i purpurt ish ngrimë ndër dej dhe në zemër, ish bamë kristal, ish ba rubis, për gjerdhanët e metresave. E trupi i vocrrakut, i lokes së nanës, ishte bamë nji shtatore e ngurët e yhgulun nga gjini i nanës.
 
-**Mesazhi:** Shoqëria që shtyp njeriun krijon revoltë. Edhe kur zëri mbytet, dhimbja dhe revoltimi ekzistojnë. Poezia është një kërkesë për drejtësi dhe vëmendje ndaj vuajtjes së shtresave të margjinalizuara.
+Merrnje dhe çonje në qytet kët shtatore. Vendosnje në nji shesh! dhe si përmendore kushtonja ndokujt. Kushtonja atij që ka ma shumë merita për kët vend! Po, ndoj ministrit o deputeti, o ndokuj tjetër… E në rasë se nuk gjeni ndoj njeri që ka merita të mjaftueshme, atëherë kushtonja atij që ka merita ma pak: perëndis klasike.`,
+    analysis: `**Hyrje:** Vepra letrare "Bukuria që vret" është një poezi me frymë realiste dhe me theks të fortë kritik social. Në këtë vepër, Migjeni paraqet dramën e varfërisë ekstreme në malet shqiptare, ku bukuria e borës kontrastohet me vdekjen dhe mjerimin.
 
-**Përfundimi:** Malsori nuk është vetëm një figurë individuale, por simbol i popullit shqiptar që përballet me varfërinë dhe shtypjen.`
-  }
+**Tema dhe ideja:** Tema kryesore është kontrasti midis bukurisë dhe mjerimit. Ideja që përcillet është se bukuria nuk është e mjaftueshme për ta shpëtuar njeriun nga një realitet i ashpër dhe i padrejtë. Titulli "Bukuria që vret" është metaforik dhe përmbledh gjithë kuptimin e veprës.
+
+**Personazhet:**
+- *Fëmija (vocrraku)* — viktima e pafajshme e varfërisë dhe të ftohtit
+- *Nëna* — simbolizon dhimbjen e nënës që humbet fëmijën
+- *Familja fshatare* — përfaqëson popullin e varfër malësor
+- *Laroja (lopa)* — tregon se kafshët dhe njerëzit ndajnë të njëjtin mjerim
+
+**Figurat letrare:**
+- *Metafora:* "Bukuria që vret" — bora e bukur sjell vdekje
+- *Kontrasti (antiteza):* bukuri ↔ mjerim; bardhësia e borës ↔ vdekja e fëmijës
+- *Personifikimi:* bukuria paraqitet si forcë që vepron; kasolla "gjëmon"
+- *Ironia:* Në fund, autori propozon ta bëjnë fëmijën e ngrirë përmendore — ironi e hidhur ndaj politikanëve
+- *Simboli:* Kristalizimi — ngurtësimi i jetës; rubini — gjaku i varfërve shndërrohet në stoli për të pasurit
+
+**Gjendjet shpirtërore:** Trishtim, Dhimbje, Keqardhje, Revoltë, Dëshpërim
+
+**Mesazhi:** Mesazhi i kësaj vepre është se bukuria e jashtme nuk mjafton për të garantuar lumturinë. Në një shoqëri të padrejtë, edhe ajo që është më e bukur mund të shkatërrohet. Migjeni na fton të reflektojmë për realitetin dhe të mos qëndrojmë indiferentë ndaj vuajtjes së të tjerëve.
+
+*Punoi: Elena Ceku*`
+  },
 ];
+
+export const poemList = poems.filter(p => p.type === "poezi");
+export const proseList = poems.filter(p => p.type === "proze");
