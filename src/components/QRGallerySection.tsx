@@ -2,11 +2,13 @@ import { motion } from "framer-motion";
 import { QrCode } from "lucide-react";
 import QRCode from "react-qr-code";
 
+const BASE_URL = "https://migjeni.lovable.app";
+
 const qrItems = [
-  { label: "Foto 1", url: "https://example.com/foto1" },
-  { label: "Foto 2", url: "https://example.com/foto2" },
-  { label: "Foto 3", url: "https://example.com/foto3" },
-  { label: "Foto 4", url: "https://example.com/foto4" },
+  { label: "Pikturë — Fëmijët e rrugës", url: `${BASE_URL}/images/painting-1.jpeg` },
+  { label: "Pikturë — Nëna me fëmijë", url: `${BASE_URL}/images/painting-2.jpeg` },
+  { label: "Pikturë — Statuja e Migjenit", url: `${BASE_URL}/images/painting-3.jpeg` },
+  { label: "Pikturë — Mjellmat", url: `${BASE_URL}/images/painting-4.jpeg` },
 ];
 
 const QRGallerySection = () => {
