@@ -24,7 +24,7 @@ const Index = () => {
       <Navbar onSearchOpen={() => setSearchOpen(true)} />
       <HeroSection onSearchOpen={() => setSearchOpen(true)} />
       <PoetrySection onPoemSelect={handlePoemSelect} />
-      <ProseSection />
+      <ProseSection onPoemSelect={handlePoemSelect} />
       <BiographySection />
       <QRGallerySection />
       <FormSection />
