@@ -6,6 +6,7 @@ export interface Poem {
   emoji: string;
   text: string;
   analysis: string;
+  author?: string;
 }
 
 export const poems: Poem[] = [
@@ -15,6 +16,7 @@ export const poems: Poem[] = [
     year: 1936,
     excerpt: "Buke te bardhe, nane, iha qysh kur s'kena hanger!",
     emoji: "🍞",
+    author: "Ansuel Sokoli",
     text: `– Lil! Hajde, nanë, hajde, me ra me fjete, se te ka shtrue nana.
 
 – Jo pra, jo! Aspak! S'due me fjete! Due me prite babën.
@@ -151,6 +153,7 @@ Dhe nje dite, kur Lilin, mbas etheve te forta e zu gjumi, e ama e ndryni shtepin
     year: 1936,
     excerpt: "Luli, fëmija i varfër që shikon botën me sy të mëdhenj...",
     emoji: "👦",
+    author: "Lorenc Halili",
     text: `Luli i Vocërr është tregimi i një fëmije të varfër që përjeton padrejtësitë e botës në mënyrën më të thjeshtë — përmes çizmeve që s'i ka, tollumbave që s'i lozën, dhe diellit që nuk e ngroh mjaftueshëm.
 
 Ecën ngadalë nëpër oborrin e shkollës, me këmbë zbathura, me hundë të kuqe nga ftohti, me grishura në veshje. Shikon shokët e tij që luajnë, por nuk guxon t'u afrohet. Shokët e pasur kanë çizme, kanë tollumba, kanë buzëqeshje.
@@ -189,6 +192,7 @@ Dielli shndrit mbi oborr, por rrezet e tij nuk arrijnë deri te Luli. Si fluturo
     year: 1936,
     excerpt: "Lukja, një grua e shtyrë nga varfëria...",
     emoji: "💔",
+    author: "Emanuel Molla",
     text: `Kjo pjesë rrëfen historinë tragjike të Lukes, një grua e shtyrë nga varfëria të bëhet prostitutë. Ajo shfrytëzohet nga shoqëria, ëndërron një jetë të qetë familjare, por përfundon e zhgënjyer, e varfëruar dhe në fund çmendet.
 
 Lukja ishte vajzë e varfër. Jeta ia kishte mbyllur të gjitha dyert. Shoqëria e shikonte me përbuzje, por njëkohësisht e shfrytëzonte. Studentët dhe klientët e quan "hyjneshë" — por vetëm sa ishte mall tregu.
@@ -238,6 +242,7 @@ Autori paraqet dramën e individit që shkatërrohet nga kushtet sociale dhe eko
     year: 1936,
     excerpt: "Malet e heshtuna thërrasin, me zâ të randë...",
     emoji: "⛰️",
+    author: "Klevisa Tafhasi",
     text: `Malet e heshtuna thërrasin,
 me zâ të randë, me zâ prej guri,
 e malsori i vorfën përgjon

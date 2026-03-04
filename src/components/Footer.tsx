@@ -24,6 +24,14 @@ const Footer = () => {
             <a href="#biografia" className="text-secondary-foreground/60 hover:text-primary text-sm transition-colors">
               Biografia
             </a>
+            <a
+              href="https://www.instagram.com/migjeni.1911"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-secondary-foreground/60 hover:text-primary text-sm transition-colors"
+            >
+              Instagram
+            </a>
           </div>
         </div>
       </div>

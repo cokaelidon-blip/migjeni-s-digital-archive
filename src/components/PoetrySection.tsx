@@ -54,6 +54,9 @@ const PoetrySection = ({ onPoemSelect }: PoetrySectionProps) => {
               <p className="text-muted-foreground text-sm leading-relaxed mb-4">
                 "{poem.excerpt}"
               </p>
+              {poem.author && (
+                <p className="text-xs text-primary/70 font-medium mb-3">nga {poem.author}</p>
+              )}
               <div className="flex items-center text-primary text-sm font-medium">
                 <span>Lexo & Analizo</span>
                 <ChevronRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />

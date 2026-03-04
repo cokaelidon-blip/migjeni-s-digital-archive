@@ -30,7 +30,12 @@ const PoemModal = ({ poem, onClose }: PoemModalProps) => {
                 <span className="text-3xl">{poem.emoji}</span>
                 <div>
                   <h2 className="font-playfair text-2xl font-bold text-foreground">{poem.title}</h2>
-                  <span className="text-sm text-muted-foreground">{poem.year}</span>
+                  <div className="flex items-center gap-2">
+                    <span className="text-sm text-muted-foreground">{poem.year}</span>
+                    {poem.author && (
+                      <span className="text-sm text-primary font-medium">• {poem.author}</span>
+                    )}
+                  </div>
                 </div>
               </div>
               <button
