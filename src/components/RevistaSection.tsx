@@ -9,7 +9,7 @@ const quizQuestions = [
     correct: 2,
   },
   {
-    q: "2. Në cilën vepër të tij përfshihet poema e njohur "Poema e Mjerimit"?",
+    q: '2. Në cilën vepër të tij përfshihet poema e njohur "Poema e Mjerimit"?',
     options: ["a) Vargjet e Lira", "b) Novelat e Qytetit të Veriut", "c) Lulet e Verës", "d) Këngët e Milosaos"],
     correct: 0,
   },
