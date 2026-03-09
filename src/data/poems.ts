@@ -19,48 +19,56 @@ export const poems: Poem[] = [
     emoji: "⛰️",
     author: "Klevisa Tafhasi",
     type: "poezi",
-    text: `Malet e heshtuna thërrasin,
-me zâ të randë, me zâ prej guri,
-e malsori i vorfën përgjon
-si bishë e trembun në terr.
+    text: `O, si nuk kam një grusht të fortë
+t'i bij mu në zemër malit që s'bëzanë,
+ta dij dhe ai se ç'domethanë i dobët
+n'agoni të përdihet si vigan i vramë.
 
-Kanga e tij asht vajtim,
-asht britmë e mbytun n'gji,
-asht urrejtje e vjetër
-që s'ka gjetë kurr shteg me dalë.
+Unë lugat si hij' e trazueme,
+trashigimtar i vuejtjes dhe i durimit,
+endem mbi bark të malit me ujën e zgjueme
+dhe me klithma të pakënaqura t'instinktit.
 
-Ai këndon për barkun bosh,
-për dimnin që s'ka mshirë,
-për fëmijët pa dritë
-e për shpresën që s'lind.
+Mali hesht. Edhe pse përditë
+mbi lëkurë të tij, në lojë varrimtare,
+kërkoj me gjetë një kafshatë ma të mirë...
+Por më rren shaka, shpresa gënjeshtare.
 
-O kangë e malsorit,
-ti s'je kangë gëzimi,
-por aktakuzë e fortë
-kundër jetës që s'e njeh njeriun.`,
-    analysis: `**Hyrja:** Poezia "Recitali i Malsorit" e Migjenit është një reflektim i thellë mbi vuajtjet e shtresës së varfër dhe të shtypur në shoqërinë shqiptare. Migjeni përmes imazhit të malsorit tregon revoltën e brendshme të njeriut që kërkon drejtësi dhe liri, por zëri i tij shpesh mbetet i shtypur nga realiteti i dhimbshëm.
+Mali hesht, dhe në heshtje qesh.
+E unë vuej, dhe në vuejtje vdes.
 
-**Tema:**
-- *Varfëria dhe shtypja sociale:* Malsori përfaqëson popullin e varfër dhe të harruar.
-- *Revolta dhe dhimbja e brendshme:* Rebelimi ekziston, por zëri i tij shpesh mbetet i mbytur.
-- *Realizmi social:* Migjeni tregon mjerimin pa zbukurime, me tone të ashpra dhe të drejta.
+Po unë, kur? heu! kur kam për t'u qesh?
+Apo ndoshta duhet ma parë të vdes?
 
-**Figura e malsorit:**
-- Malsori është një rebel i shtypur, që kërkon drejtësi.
-- "Kanga e tij asht vajtim, asht britmë e mbytun n'gji" — tregojnë dhimbjen dhe revoltën e penguar.
-- Ai simbolizon popullin e shtypur, që përpiqet të ngrihet, por sistemi e ndalon.
+O, si nuk kam një grusht të fuqishëm!
+Malit, që hesht, mu në zemër me ia njesh!
+Ta shof si dridhet nga grusht' i paligjshëm...
+E unë të kënaqem, të kënaqem tu' u qesh.`,
+    analysis: `**Tema:** Tema kryesore e poezisë është vuajtja dhe revolta e njeriut të varfër përballë jetës së ashpër. Migjeni paraqet dramën e malsorit që jeton në varfëri dhe lufton çdo ditë për mbijetesë.
 
-**Titulli — "Recitali":**
-Normalisht, recital lidhet me festë ose performancë artistike, por këtu krijon ironi: recitali nuk është gëzim, por vajtim dhe aktakuzë. Migjeni përdor kontrastin mes pritshmërisë së bukur dhe realitetit të hidhur social.
+**Personazhet:**
+- *Malësori* – personazhi kryesor. Ai përfaqëson njeriun e shtypur dhe të varfër që jeton mes vuajtjesh, por që brenda vetes ka revoltë dhe dëshirë për të ndryshuar fatin e tij.
+- *Mali* – paraqitet në mënyrë simbolike dhe përmes personifikimit. Ai përfaqëson natyrën e ashpër dhe një botë të pandjeshme ndaj vuajtjes së njeriut.
 
-**Gjuha dhe stili:**
-- Gjuha është e fuqishme dhe emocionale: "vajtim", "britmë e mbytun", "urrejtje e vjetër".
-- Stili është realist dhe kritik, duke treguar vuajtjen e popullit pa zbukurime.
-- Ton i errët dhe serioz, tipik për Migjenin.
+**Motivet:**
+- *Motivi i vuajtjes* – malsori është "trashëgimtar i vuajtjes dhe i durimit".
+- *Motivi i revoltës* – dëshira për të goditur malin me një grusht të fortë tregon revoltën e brendshme.
+- *Motivi i zhgënjimit dhe mungesës së shpresës* – malsori ndihet i mashtruar nga "shpresa gënjeshtare".
 
-**Mesazhi:** Shoqëria që shtyp njeriun krijon revoltë. Edhe kur zëri mbytet, dhimbja dhe revoltimi ekzistojnë. Poezia është një kërkesë për drejtësi dhe vëmendje ndaj vuajtjes së shtresave të margjinalizuara.
+**Figurat letrare:**
+- *Metafora* – "trashigimtar i vuejtjes dhe i durimit".
+- *Personifikimi* – "Mali hesht", "në heshtje qesh".
+- *Krahasimi* – "si vigan i vramë".
+- *Hiperbola* – dëshira për të goditur malin me grusht.
+- *Pyetja retorike* – "Po unë, kur?… kur kam për t'u qesh?".
 
-**Përfundimi:** Malsori nuk është vetëm një figurë individuale, por simbol i popullit shqiptar që përballet me varfërinë dhe shtypjen.`
+**Simbolika:**
+- *Mali* simbolizon jetën e vështirë, fatin e pamëshirshëm dhe shoqërinë që nuk reagon ndaj vuajtjes.
+- *Grushti* simbolizon revoltën dhe dëshirën për të ndryshuar realitetin e padrejtë.
+
+**Mesazhi:** Vuajtja dhe varfëria e njeriut mund të krijojnë revoltë të fortë ndaj një bote të padrejtë. Migjeni kritikon realitetin shoqëror dhe tregon se njeriu i shtypur kërkon dinjitet, drejtësi dhe ndryshim.
+
+*Punoi: Klevisa Tafhasi*`
   },
   {
     id: "naTbirShekullit",
@@ -249,18 +257,19 @@ e dy buzve që pëshpërisin ngushllimin.`,
     text: `Poema e mjerimit është një pjesë e ciklit "Këngët e mjerimit", një ndër ciklet më të rëndësishme të krijimtarisë të Migjenit. Në këtë cikël poeti pasqyron realitetin e zymtë social të shoqërisë shqiptare të viteve '30, duke denoncuar varfërinë, padrejtësinë shoqërore, hipokrizinë fetare dhe indiferencën njerëzore.`,
     analysis: `**Tema:** Tema kryesore e poemës është mjerimi shoqëror dhe njerëzor, i shfaqur në të gjitha format e tij.
 
-**Subjekti:** Subjekti i poemes paraqet mjerimin si një realitet të gjithanshëm që shoqëron jetën e njeriut nga lindja deri në vdekje. Poema përshkruan vuajtjen e shtresave të varfra përmes pamjeve të urisë, sëmundjes, punës së rëndë pa shpërblim, degradimit moral dhe shpirtëror.
+**Subjekti:** Paraqet mjerimin si një realitet të gjithanshëm që shoqëron jetën e njeriut nga lindja deri në vdekje. Poema përshkruan vuajtjen e shtresave të varfra përmes pamjeve të urisë, sëmundjes, punës së rëndë pa shpërblim, degradimit moral dhe shpirtëror. Mjerimi shfaqet në fëmijërinë e dënuar që në djep, në rininë e shtyrë drejt epshit dhe alkoolit, si edhe në trashëgiminë e dhimbshme brez pas brezi.
 
-**Lloji i vargut:** Varg i lirë: Poezia nuk ndjek një metrikë të rregullt klasike, por ka gjatësi të ndryshme vargjesh. Ritmi ndërtohet më shumë mbi ngarkesën emocionale, përsëritjen e fjalëve ("Mjerimi…") dhe figurat stilistike.
+**Lloji i vargut:** Varg i lirë, pa numër të rregullt rrokjesh dhe pa rimë të qëndrueshme. Ritmi krijohet nga emocionet dhe përsëritjet e fjalëve ("Mjerimi…"). Ky lloj vargu i jep poezisë forcë shprehëse.
 
-**Rima:** Rima është e lirë dhe jo e rregullt. Në disa raste, Migjeni përdor asonanca dhe aliteracion për të krijuar muzikë të brendshme.
+**Rima e përdorur:** Rimë e lirë, jo e rregullt. Ka rimë të pjesshme: mjerimi – trishtimi; lagta – ndragta; mbesin – desin.
 
 **Figurat letrare:**
-- *Metafora:* "Kafshatë që s'kapërdihet asht mjerimi" — mjerimi paraqitet si diçka që të mbyt. "Gotë e helmit" — simbol i trashëgimisë së vuajtjes brez pas brezi.
-- *Personifikimi:* "Mjerimi tërbohet", "mjerimi punon", "mjerimi rrit fëmin" — mjerimi merr tipare njerëzore dhe shndërrohet në një qenie aktive, mizore.
-- *Simboli:* Djepi i skamit — fëmijëria e dënuar që në lindje. Zhelet — shpresa e shkatërruar dhe varfëria ekstreme. Gota — arratisja e rreme nga vuajtja përmes alkoolit.
-- *Epitetet:* "bark shekulluer", "tryezë e flliqtë", "pijetore të qelbta" - theksojnë neverinë dhe degradimin moral.
-- *Kontrasti:* Varfëria e lypsit — luksi i zotërinjve. Vuajtja njerëzore — heshtja fetare.
+- *Personifikimi:* "Mjerimi punon", "Mjerimi rrit fëmin", "Mjerimi ndez dëshirat"
+- *Metafora:* "Mjerimi asht një njollë e pashlyeme"
+- *Simboli:* gota → harresa e dhimbjes; djepi i skamit → lindja në varfëri
+- *Kontrasti:* jeta e të varfërve ↔ jeta e të pasurve në luks
+- *Hiperbola:* theksimi i madh i vuajtjes dhe dhimbjes.
+- *Epitetet:* "tavan i tymuem", "zhele të coptueme", "buzët e ndragta".
 
 **Mesazhi:** Mjerimi nuk kërkon mëshirë, por drejtësi. Migjeni dënon shoqërinë që pranon mjerimin si normalitet dhe kritikon ashpër institucionet fetare dhe shtresat e pasura që mbyllin sytë përballë vuajtjes njerëzore.
 
@@ -408,41 +417,53 @@ Dhe nje dite, kur Lilin, mbas etheve te forta e zu gjumi, e ama e ndryni shtepin
     id: "luliVocerr",
     title: "Luli i Vocërr",
     year: 1936,
-    excerpt: "Luli, fëmija i varfër që shikon botën me sy të mëdhenj...",
+    excerpt: "A skush s'e njef Lulin. As shokët e tij, që përpara tij lozin...",
     emoji: "👦",
     author: "Lorenc Halili",
     type: "proze",
-    text: `Luli i Vocërr është tregimi i një fëmije të varfër që përjeton padrejtësitë e botës në mënyrën më të thjeshtë — përmes çizmeve që s'i ka, tollumbave që s'i lozën, dhe diellit që nuk e ngroh mjaftueshëm.
+    text: `A skush s'e njef Lulin. As shokët e tij, gë perpara tij lozin, nuk e njofin. Ma mirë me thanë se e njofin, por ata lozın për hesap të vet e Luli i shikon për hesap të vet. Sot gjithkush ka punët dhe telashet e veta, ashtu dhe fëmijt, ashtu dhe Luli.
+- More Lul! Shum herët ke fillue me shikue punën tande.
 
-Ecën ngadalë nëpër oborrin e shkollës, me këmbë zbathura, me hundë të kuqe nga ftohti, me grishura në veshje. Shikon shokët e tij që luajnë, por nuk guxon t'u afrohet. Shokët e pasur kanë çizme, kanë tollumba, kanë buzëqeshje.
+Kur Luli hyn n'oborr te shkollës, buza i geshet nga pak, po askuj asnje fjalë s'i thotë. Ecën ngadalë, tue shikue djathtas e majtas, por gjithnjë tue ecé, derisa të mrrije në cak të vet. Aty te dera e rruginës shkollore shumë i pelqen të gendrojë. Aty asht caku i tij, i praruem me rrezet e ngrofta të diellit në këto ditët e vjeshtës. Mbështetet Luli për mur, grushtat e vegjël i shtie ndër xhepa, hundën picrrake të kuqun nga të ftohtit e mëngjesit ia sjell diellit dhe... shikon. Gjaja qé ma tepër ia tërhjek vrejtën janë çizmet, qü i kanë të veshun disa shokë të tij. Sa të bukra janë! Si shkëlqejnë! - mendon Luli dhe pa dashje i shkojnë syt ndër tollumbat e veta, nëpër të cilat shifen fare mirë te pesë gishtat e kambve të zbathuna.
 
-Mësuesi e shikon Lulin. E shikon me mëshirë, por mëshira nuk mjafton. Ia fal diçka, ndoshta një fjalë të butë, por fjala nuk ngroh këmbët.
+Nga kureshta i afrohet një shoku që ka çizmet ma të reja. Ulet dhe shef në lustrin e çizmës kambët e veta të zhathuna - aq shumë shkëlqejshin çizmet!!! Mbasi shoku me çizme fluturoi, Luli ngadale shkoi te caku i vet, në diell, t'i ngrofi kambet.
+- Po kur nuk ka diell, si ia ban i shkreti Lul? Ndoshta ia bajne disi hallin apostujt e mëshirsë dhe të dashunis... Ndoshta, ndoshta...
 
-Luli hesht. Nuk flet shumë, nuk ankohet. Thjesht shikon — me sy të mëdhenj e të ndjeshëm — botën që i ka kthyer shpinën.
+Nganjëherë i afrohet mësuesi Lulit. Dhe kur e ka ftyrën e dlirtë dhe pa puça, mësuesi ia ledhaton faqet, gushën, e Luli i afrohet, ia merr dorën, e shikon me sy pllumbi dhe kishte dashtë ti fali diçka mësuesit. Por vjollca nuk ka. E Luli i vocërr çka mund ti fali mësuesit tjetër? Veç në ia falte tollumbat e veta, qü kanë hapun gojën si me dashtë me e hangër mësuesin. Po, po, tollumbat e Lulit të vocërr kanë me e hangër mësuesin.`,
+    analysis: `**Historiku i krijimit:** "Luli i Vocërr" është shkruar në vitet '30-të të shekullit XX, periudhë kur Shqipëria përballej me varfëri të thellë, mungesë arsimimi dhe pabarazi sociale të dukshme. Migjeni, i cili ka punuar si mësues, sjell një përshkrim realist të jetës së fëmijëve të varfër.
 
-Dielli shndrit mbi oborr, por rrezet e tij nuk arrijnë deri te Luli. Si fluturojnë vjollcat përreth, ashtu fluturon edhe fëmijëria e tij — larg, pa u kthyer.`,
-    analysis: `**Tema kryesore:** Varfëria fëmijërore, pabarazia sociale dhe klasore, indiferenca e shoqërisë ndaj fëmijëve të varfër.
+**Zhanri i veprës:** Prozë e shkurtër, Tregim realist, Tregim me karakter social, Realizëm kritik.
 
-**Lloji i veprës:** Tregim i shkurtër realist.
+**Tematika:**
+- Varfëria dhe mjerimi i fëmijërisë
+- Pabarazia shoqërore
+- Mungesa e lumturisë së fëmijërisë
+- Vetmia dhe dëshira e paplotësuar
+- Mëshira si zgjidhje e përkohshme, jo si shpëtim
 
-**Personazhi kryesor — Luli:**
-- Fëmijë i varfër, i heshtur, i ndjeshëm
-- Përfaqëson shtresën e varfër të shoqërisë
-- Karakterizohet nga vetmia dhe pafuqia
+**Problematika:** Varfëria ekstreme e Lulit; dallimet klasore mes fëmijëve; indiferenca e shoqërisë; sistemi që ofron mëshirë, jo zgjidhje reale.
 
-**Personazhe të tjera:**
-- *Mësuesi* — afrohet me mëshirë por nuk ofron zgjidhje reale
-- *Shokët* — përfaqësojnë dallimet klasore dhe privilegjin
+**Sistemi i personazheve:**
+- *Luli* – personazhi kryesor; i heshtur, i turpshëm dhe i vetmuar; përfaqëson shtresën e varfër.
+- *Shokët* – të pasur ose më të privilegjuar; përfaqësojnë kontrastin klasor.
+- *Mësuesi* – i butë dhe mëshirues; i pafuqishëm për të ndryshuar varfërinë.
 
-**Teknikat artistike:**
-- *Portreti:* Përshkrim i detajuar fizik — këmbët zbathura, hunda e kuqe, grishurat
-- *Simbolet:* Çizmet — simbolizojnë statusin social; Dielli — ngrohtësinë dhe lumturinë e paplotësuar; Tollumbat — fëmijërinë e humbur
-- *Kontrasti:* Fëmijët e pasur ↔ Luli i varfër; Dielli ngroh ↔ por jo Lulin
-- *Ironia:* Mëshira e mësuesit që nuk sjell ndryshim
+**Konflikti:**
+- *Konflikti i jashtëm:* Luli kundër realitetit të varfërisë dhe pabarazisë.
+- *Konflikti i brendshëm:* Dëshira për të pasur si shokët ↔ ndërgjegjësimi për varfërinë.
+- Konflikti është më shumë psikologjik dhe social sesa fizik.
 
-**Konflikti:** Konflikt social — Luli kundër pabarazisë dhe mungesës së mundësive.
+**Veçoritë artistike:**
+1. *Portreti:* Hundë picrrake, këmbë të zbathura, grushta të vegjël — domethënës për statusin e Lulit.
+2. *Peizazhi:* Dielli i vjeshtës simbolizon ngrohtësinë dhe shpresën.
+3. *Rrëfimi:* Në vetën e tretë; narratori ndërhyn me pyetje retorike.
+4. *Monologu i brendshëm:* Mendimet e Lulit për çizmet dhe mungesën e mundësive.
+5. *Antiteza:* Çizmet ↔ këmbët e zbathura; ngrohtësia ↔ ftohtësia e jetës.
+6. *Groteska:* Tollumbat që "hapin gojën" krijojnë imazh grotesk dhe dramatik.
 
-**Mesazhi:** Varfëria fëmijërore është akuzë e thellë ndaj shoqërisë. Fëmijëria duhet të jetë e ngrohtë dhe e sigurt për të gjithë, por realiteti krijon imazhe groteske dramatike. Heshtja e Lulit "hap gojën" — zbathura, ftohësia dhe vetmia janë akuzë shoqërore.`
+**Mesazhi:** Varfëria vret dinjitetin. Fëmijëria nuk duhet të jetë luftë për mbijetesë. Mëshira nuk mjafton; duhet ndryshim i thellë shoqëror. Luli hesht, por heshtja e tij është akuzë ndaj shoqërisë.
+
+*Punoi: Lorenc Halili*`
   },
   {
     id: "historiaENjenes",
@@ -542,6 +563,70 @@ Merrnje dhe çonje në qytet kët shtatore. Vendosnje në nji shesh! dhe si për
 **Mesazhi:** Mesazhi i kësaj vepre është se bukuria e jashtme nuk mjafton për të garantuar lumturinë. Në një shoqëri të padrejtë, edhe ajo që është më e bukur mund të shkatërrohet. Migjeni na fton të reflektojmë për realitetin dhe të mos qëndrojmë indiferentë ndaj vuajtjes së të tjerëve.
 
 *Punoi: Elena Ceku*`
+  },
+  {
+    id: "adonQymyrZotni",
+    title: "A don qymyr zotni?",
+    year: 1936,
+    excerpt: "Dy thasë qymyr mi kal. Pranë, malsorja. Trotuari me blok dyqanesh...",
+    emoji: "⛏️",
+    author: "Atnisa Domi",
+    type: "proze",
+    text: `Dy thasë qymyr mi kal. Pranë, malsorja. Trotuari me blok dyqanesh djathtas, ashtu edhe majtas. Kali dhe malsorja në parakalim. Qymyri në konkurs. Shikon njeriu artist dhe ia prish sytë kjo dis-harmoni. Një disonancë e vrazhdë. Malsorja i fryn hundët, prodhimin e njesh për trotuar dhe gishtat i fshin për xhubletë. Veprim i thjeshtë, por motiv delikat për një piktor. Thupra në dorë të malsores shkrryhet përtokë dhe shkruen një vijë kilometri gjatë rrugës. Q'ashtu malsorja nënvizon mendimet e veta.
+
+- A do qymyr, zotni?
+- Sa?
+- Dymbëdhetë lekë… Po ndalu, thuej ti sa. Pse po hik?
+
+Në kët vapë dymbëdhjetë lekë? – pyet një tjetër tue perqeshë.
+- Po sa jep ti, pra?
+- Jo, mue nuk më duhet.
+
+Vërtet vapë ban. Pa kujt i duhet qymyri. Po e mbaj dhjetë lekë, mendon malsorja dhe hec nëpër hije rrugës së qytetit. Kali lëviz në symbyllë. Ndoshta andron. Tash në pleqni andrron dashnin' e dikurshme të pelës. Malsorja s'e nget. Nuk e trazon në knaqsi të tij të pamvarshme. Asht duruese. Kur dalin në diell, përdhe shkrryhet një hije. Dy hije. Dy hie të ngatrrueme, të kapërthyeme, hieja e kalit dhe hija e malsores. Nuk mund ti dallojsh këto dy hie. Nuk mund t'i këputish. Njana pa tjetrën nuk shkojnë. S'kanë vlerë. Se vetëm bashkë përbajnë një tansi. Një tansi jetsore. Krk-krk kthehet qymyri në shtëpinë të kalit, krk, krk, krk dhe krizmat monotone të patkojve të kalit, që ndeshin për gurë.
+
+Malsorja çon kryet. Shikon diellin… koha me u nisë. Me u kthye në malsi. E qymyri s'u shit. Vendosi ta japi ma lirë.
+
+O ti djalë, sa asht sahati?
+
+Djaloshin e tërheq bukuria e malsores. Miqësisht i afrohet dhe i thotë sa asht ora. E pyet sa e mban qymyrin. Ban pazarllëk, edhe pse s'ka qëllim ta blejë. Por malsorja asht e bukur dhe e re. Pse mos të kuvendojë pak me të? "Asht e ndytë, – konstaton djaloshi. Sa teveqelë janë këto katundarët. Nuk të kuptojnë. Duhet me i thanë… dhe atë që nuk thohet". Kështu mendon djaloshi dhe e shikon malsoren si bir zotnie shërbtoren e re të veten. Teveqele! Teveqele! S'kupton asgja!. Dhe djaloshi shkon në punë të vet.
+
+E malsorja fillon të shqetësohet për kthimin në malsi. Shikon diellin, si gjithnjë po afrohet nga perëndimi. Si ka për t'u kthye në malci nëpër terr? Me të vërtetë, ajo nuk dron prej lugetënve dhe bubezhelave por… T'ishte plakë nuk do kishte aspak frikë, por… Kujtohet si nja dy tri herësh i janë vu mbrapa do njerëz, dhe së pari nuk dinte se ç'lypshin prej saj… Pra, nuk i ndron bubazhelat si qytetarët, por njerëzit… Njerëzit i ka ajo frigë. E pse? Pse asht e re dhe pak e bukur.
+
+Një dhimbë e kandshme shtrëngon zemrën e malsores.
+
+- Sa e ke at qymyr fisnike?
+
+Malsorja siellet. E njef njeriun q'e pyet. Ja ka shite edhe nji herë qymyrin. I thotë:
+- Tetë lekë!
+- Jo, shtrejt e ke… Më ke idhnue atë ditë, – i thotë njeriu dhe shikon majtas e djathtas.
+
+Malsorja qeshet, disi e turpnueme. E mshef ftyrën. Kuqet. Nuk i çon sytë në njeriun. Pyet e frigueme:
+- Sa për ty pra?
+- Pesë!
+- Merre shtatë!
+- Hajde për gjashtë!
+
+Malsorja rri pezull. Mendohet. Shikon diellin.
+- Ja pash hajrin! – thotë, dhe i shkon mbrapa blesit. E ai njeri q'aty, ai që tash po ec përpara saj, peshon shumë randë në kujtesën e malsores, e cila kuqet e skuqet nga turpi.`,
+    analysis: `**Autori:** Migjeni — Vëllimi: Vargjet e Lira. Rryma: Realizëm kritik. Lloji i veprës: Novel.
+
+**Tema:** Humbja e dinjitetit dhe objektivizimi i gruas; varfëria ekstreme që të detyron të pranosh çdo kusht.
+
+**Subjekti:** Një malësore zbret në qytet për të shitur qymyr me kalin e saj. Në vapën e ditës, ajo përballet me talljet dhe përbuzjen e qytetarëve. Një djalosh i ri afrohet jo për të blerë, por për të shfrytëzuar bukurinë e saj. Në fund, e detyruar nga koha dhe mungesa e të ardhurave, ia shet qymyrin një njeriu që e shfrytëzon, duke e nënshtruar edhe më tepër.
+
+**Figurat letrare:**
+- *Simbolika:* Qymyri simbolizon varfërinë dhe mundimin e malësorëve.
+- *Metafora:* "Shkruen një vijë kilometri gjatë rrugës"
+- *Personifikimi:* Kali "andrron" për dashurinë e dikurshme
+- *Onomatope:* Tingujt "Krk-krk" dhe "krismat monotone të patkojve"
+
+**Gjuha:** E pasur, figurative dhe me ngarkesë të fortë emocionale.
+
+**Qëllimi:** Ekspozon hipokrizinë dhe indiferencën e shtresave të larta të qytetit ndaj vuajtjeve të malësorëve.
+
+**Mesazhi:** Kur varfëria të merr gjithçka, njeriu mbetet vetëm trup që shitet për një copë bukë, sepse dinjiteti bëhet luks që s'ka të holla ta paguajë.
+
+*Punoi: Atnisa Domi*`
   },
 ];
 
