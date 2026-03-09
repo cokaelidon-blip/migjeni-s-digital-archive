@@ -19,48 +19,56 @@ export const poems: Poem[] = [
     emoji: "⛰️",
     author: "Klevisa Tafhasi",
     type: "poezi",
-    text: `Malet e heshtuna thërrasin,
-me zâ të randë, me zâ prej guri,
-e malsori i vorfën përgjon
-si bishë e trembun në terr.
+    text: `O, si nuk kam një grusht të fortë
+t'i bij mu në zemër malit që s'bëzanë,
+ta dij dhe ai se ç'domethanë i dobët
+n'agoni të përdihet si vigan i vramë.
 
-Kanga e tij asht vajtim,
-asht britmë e mbytun n'gji,
-asht urrejtje e vjetër
-që s'ka gjetë kurr shteg me dalë.
+Unë lugat si hij' e trazueme,
+trashigimtar i vuejtjes dhe i durimit,
+endem mbi bark të malit me ujën e zgjueme
+dhe me klithma të pakënaqura t'instinktit.
 
-Ai këndon për barkun bosh,
-për dimnin që s'ka mshirë,
-për fëmijët pa dritë
-e për shpresën që s'lind.
+Mali hesht. Edhe pse përditë
+mbi lëkurë të tij, në lojë varrimtare,
+kërkoj me gjetë një kafshatë ma të mirë...
+Por më rren shaka, shpresa gënjeshtare.
 
-O kangë e malsorit,
-ti s'je kangë gëzimi,
-por aktakuzë e fortë
-kundër jetës që s'e njeh njeriun.`,
-    analysis: `**Hyrja:** Poezia "Recitali i Malsorit" e Migjenit është një reflektim i thellë mbi vuajtjet e shtresës së varfër dhe të shtypur në shoqërinë shqiptare. Migjeni përmes imazhit të malsorit tregon revoltën e brendshme të njeriut që kërkon drejtësi dhe liri, por zëri i tij shpesh mbetet i shtypur nga realiteti i dhimbshëm.
+Mali hesht, dhe në heshtje qesh.
+E unë vuej, dhe në vuejtje vdes.
 
-**Tema:**
-- *Varfëria dhe shtypja sociale:* Malsori përfaqëson popullin e varfër dhe të harruar.
-- *Revolta dhe dhimbja e brendshme:* Rebelimi ekziston, por zëri i tij shpesh mbetet i mbytur.
-- *Realizmi social:* Migjeni tregon mjerimin pa zbukurime, me tone të ashpra dhe të drejta.
+Po unë, kur? heu! kur kam për t'u qesh?
+Apo ndoshta duhet ma parë të vdes?
 
-**Figura e malsorit:**
-- Malsori është një rebel i shtypur, që kërkon drejtësi.
-- "Kanga e tij asht vajtim, asht britmë e mbytun n'gji" — tregojnë dhimbjen dhe revoltën e penguar.
-- Ai simbolizon popullin e shtypur, që përpiqet të ngrihet, por sistemi e ndalon.
+O, si nuk kam një grusht të fuqishëm!
+Malit, që hesht, mu në zemër me ia njesh!
+Ta shof si dridhet nga grusht' i paligjshëm...
+E unë të kënaqem, të kënaqem tu' u qesh.`,
+    analysis: `**Tema:** Tema kryesore e poezisë është vuajtja dhe revolta e njeriut të varfër përballë jetës së ashpër. Migjeni paraqet dramën e malsorit që jeton në varfëri dhe lufton çdo ditë për mbijetesë.
 
-**Titulli — "Recitali":**
-Normalisht, recital lidhet me festë ose performancë artistike, por këtu krijon ironi: recitali nuk është gëzim, por vajtim dhe aktakuzë. Migjeni përdor kontrastin mes pritshmërisë së bukur dhe realitetit të hidhur social.
+**Personazhet:**
+- *Malësori* – personazhi kryesor. Ai përfaqëson njeriun e shtypur dhe të varfër që jeton mes vuajtjesh, por që brenda vetes ka revoltë dhe dëshirë për të ndryshuar fatin e tij.
+- *Mali* – paraqitet në mënyrë simbolike dhe përmes personifikimit. Ai përfaqëson natyrën e ashpër dhe një botë të pandjeshme ndaj vuajtjes së njeriut.
 
-**Gjuha dhe stili:**
-- Gjuha është e fuqishme dhe emocionale: "vajtim", "britmë e mbytun", "urrejtje e vjetër".
-- Stili është realist dhe kritik, duke treguar vuajtjen e popullit pa zbukurime.
-- Ton i errët dhe serioz, tipik për Migjenin.
+**Motivet:**
+- *Motivi i vuajtjes* – malsori është "trashëgimtar i vuajtjes dhe i durimit".
+- *Motivi i revoltës* – dëshira për të goditur malin me një grusht të fortë tregon revoltën e brendshme.
+- *Motivi i zhgënjimit dhe mungesës së shpresës* – malsori ndihet i mashtruar nga "shpresa gënjeshtare".
 
-**Mesazhi:** Shoqëria që shtyp njeriun krijon revoltë. Edhe kur zëri mbytet, dhimbja dhe revoltimi ekzistojnë. Poezia është një kërkesë për drejtësi dhe vëmendje ndaj vuajtjes së shtresave të margjinalizuara.
+**Figurat letrare:**
+- *Metafora* – "trashigimtar i vuejtjes dhe i durimit".
+- *Personifikimi* – "Mali hesht", "në heshtje qesh".
+- *Krahasimi* – "si vigan i vramë".
+- *Hiperbola* – dëshira për të goditur malin me grusht.
+- *Pyetja retorike* – "Po unë, kur?… kur kam për t'u qesh?".
 
-**Përfundimi:** Malsori nuk është vetëm një figurë individuale, por simbol i popullit shqiptar që përballet me varfërinë dhe shtypjen.`
+**Simbolika:**
+- *Mali* simbolizon jetën e vështirë, fatin e pamëshirshëm dhe shoqërinë që nuk reagon ndaj vuajtjes.
+- *Grushti* simbolizon revoltën dhe dëshirën për të ndryshuar realitetin e padrejtë.
+
+**Mesazhi:** Vuajtja dhe varfëria e njeriut mund të krijojnë revoltë të fortë ndaj një bote të padrejtë. Migjeni kritikon realitetin shoqëror dhe tregon se njeriu i shtypur kërkon dinjitet, drejtësi dhe ndryshim.
+
+*Punoi: Klevisa Tafhasi*`
   },
   {
     id: "naTbirShekullit",
