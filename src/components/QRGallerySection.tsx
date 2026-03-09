@@ -5,18 +5,14 @@ import QRCode from "react-qr-code";
 const BASE_URL = "https://migjeni.lovable.app";
 
 const qrItems = [
-  { label: "Fëmijët e rrugës", path: "/images/painting-1.jpeg" },
-  { label: "Nëna me fëmijë", path: "/images/painting-2.jpeg" },
-  { label: "Statuja e Migjenit", path: "/images/painting-3.jpeg" },
-  { label: "Mjellmat", path: "/images/painting-4.jpeg" },
-  { label: "Fëmijët e rrugës II", path: "/images/painting-5.jpeg" },
+  { label: "Fëmijët e rrugës", path: "/images/painting-5.jpeg" },
   { label: "Nëna dhe djali — Adela", path: "/images/painting-6.jpeg" },
   { label: "Statuja dhe turma — Adela Neziri", path: "/images/painting-7.jpeg" },
   { label: "Nata pa gjumë — Sabiola Hysa", path: "/images/painting-8.jpeg" },
   { label: "Nëna me fëmijë — Orgesa Hata", path: "/images/painting-9.jpeg" },
   { label: "Luhatja e lirë", path: "/images/painting-10.jpeg" },
   { label: "Dritarja e shpresës", path: "/images/painting-11.jpeg" },
-  { label: "Mjellmat — Ode", path: "/images/painting-12.jpeg" },
+  { label: "Mjellmat", path: "/images/painting-12.jpeg" },
   { label: "Rruga e natës — Paula Xhaferi", path: "/images/painting-13.jpeg" },
   { label: "Luli i Vocërr — Gabriela Lushi", path: "/images/painting-14.jpeg" },
 ];
@@ -42,9 +38,9 @@ const QRGallerySection = () => {
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mx-auto">
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6 mx-auto">
           {qrItems.map((item, index) => {
-            const fullUrl = `${BASE_URL}${item.path}`;
+            const qrUrl = `${BASE_URL}${item.path}`;
             return (
               <motion.div
                 key={item.label}
@@ -55,13 +51,13 @@ const QRGallerySection = () => {
                 className="bg-card rounded-2xl p-5 border border-border shadow-lg flex flex-col items-center"
               >
                 <div className="bg-white p-3 rounded-xl mb-4">
-                  <QRCode value={fullUrl} size={110} />
+                  <QRCode value={qrUrl} size={110} />
                 </div>
                 <h3 className="font-playfair text-xs font-semibold text-foreground text-center mb-3 leading-tight">
                   {item.label}
                 </h3>
                 <a
-                  href={fullUrl}
+                  href={item.path}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-1.5 px-4 py-2 bg-primary text-primary-foreground text-xs font-medium rounded-lg hover:bg-primary/90 transition-colors"
