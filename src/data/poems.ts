@@ -417,41 +417,53 @@ Dhe nje dite, kur Lilin, mbas etheve te forta e zu gjumi, e ama e ndryni shtepin
     id: "luliVocerr",
     title: "Luli i Vocërr",
     year: 1936,
-    excerpt: "Luli, fëmija i varfër që shikon botën me sy të mëdhenj...",
+    excerpt: "A skush s'e njef Lulin. As shokët e tij, që përpara tij lozin...",
     emoji: "👦",
     author: "Lorenc Halili",
     type: "proze",
-    text: `Luli i Vocërr është tregimi i një fëmije të varfër që përjeton padrejtësitë e botës në mënyrën më të thjeshtë — përmes çizmeve që s'i ka, tollumbave që s'i lozën, dhe diellit që nuk e ngroh mjaftueshëm.
+    text: `A skush s'e njef Lulin. As shokët e tij, gë perpara tij lozin, nuk e njofin. Ma mirë me thanë se e njofin, por ata lozın për hesap të vet e Luli i shikon për hesap të vet. Sot gjithkush ka punët dhe telashet e veta, ashtu dhe fëmijt, ashtu dhe Luli.
+- More Lul! Shum herët ke fillue me shikue punën tande.
 
-Ecën ngadalë nëpër oborrin e shkollës, me këmbë zbathura, me hundë të kuqe nga ftohti, me grishura në veshje. Shikon shokët e tij që luajnë, por nuk guxon t'u afrohet. Shokët e pasur kanë çizme, kanë tollumba, kanë buzëqeshje.
+Kur Luli hyn n'oborr te shkollës, buza i geshet nga pak, po askuj asnje fjalë s'i thotë. Ecën ngadalë, tue shikue djathtas e majtas, por gjithnjë tue ecé, derisa të mrrije në cak të vet. Aty te dera e rruginës shkollore shumë i pelqen të gendrojë. Aty asht caku i tij, i praruem me rrezet e ngrofta të diellit në këto ditët e vjeshtës. Mbështetet Luli për mur, grushtat e vegjël i shtie ndër xhepa, hundën picrrake të kuqun nga të ftohtit e mëngjesit ia sjell diellit dhe... shikon. Gjaja qé ma tepër ia tërhjek vrejtën janë çizmet, qü i kanë të veshun disa shokë të tij. Sa të bukra janë! Si shkëlqejnë! - mendon Luli dhe pa dashje i shkojnë syt ndër tollumbat e veta, nëpër të cilat shifen fare mirë te pesë gishtat e kambve të zbathuna.
 
-Mësuesi e shikon Lulin. E shikon me mëshirë, por mëshira nuk mjafton. Ia fal diçka, ndoshta një fjalë të butë, por fjala nuk ngroh këmbët.
+Nga kureshta i afrohet një shoku që ka çizmet ma të reja. Ulet dhe shef në lustrin e çizmës kambët e veta të zhathuna - aq shumë shkëlqejshin çizmet!!! Mbasi shoku me çizme fluturoi, Luli ngadale shkoi te caku i vet, në diell, t'i ngrofi kambet.
+- Po kur nuk ka diell, si ia ban i shkreti Lul? Ndoshta ia bajne disi hallin apostujt e mëshirsë dhe të dashunis... Ndoshta, ndoshta...
 
-Luli hesht. Nuk flet shumë, nuk ankohet. Thjesht shikon — me sy të mëdhenj e të ndjeshëm — botën që i ka kthyer shpinën.
+Nganjëherë i afrohet mësuesi Lulit. Dhe kur e ka ftyrën e dlirtë dhe pa puça, mësuesi ia ledhaton faqet, gushën, e Luli i afrohet, ia merr dorën, e shikon me sy pllumbi dhe kishte dashtë ti fali diçka mësuesit. Por vjollca nuk ka. E Luli i vocërr çka mund ti fali mësuesit tjetër? Veç në ia falte tollumbat e veta, qü kanë hapun gojën si me dashtë me e hangër mësuesin. Po, po, tollumbat e Lulit të vocërr kanë me e hangër mësuesin.`,
+    analysis: `**Historiku i krijimit:** "Luli i Vocërr" është shkruar në vitet '30-të të shekullit XX, periudhë kur Shqipëria përballej me varfëri të thellë, mungesë arsimimi dhe pabarazi sociale të dukshme. Migjeni, i cili ka punuar si mësues, sjell një përshkrim realist të jetës së fëmijëve të varfër.
 
-Dielli shndrit mbi oborr, por rrezet e tij nuk arrijnë deri te Luli. Si fluturojnë vjollcat përreth, ashtu fluturon edhe fëmijëria e tij — larg, pa u kthyer.`,
-    analysis: `**Tema kryesore:** Varfëria fëmijërore, pabarazia sociale dhe klasore, indiferenca e shoqërisë ndaj fëmijëve të varfër.
+**Zhanri i veprës:** Prozë e shkurtër, Tregim realist, Tregim me karakter social, Realizëm kritik.
 
-**Lloji i veprës:** Tregim i shkurtër realist.
+**Tematika:**
+- Varfëria dhe mjerimi i fëmijërisë
+- Pabarazia shoqërore
+- Mungesa e lumturisë së fëmijërisë
+- Vetmia dhe dëshira e paplotësuar
+- Mëshira si zgjidhje e përkohshme, jo si shpëtim
 
-**Personazhi kryesor — Luli:**
-- Fëmijë i varfër, i heshtur, i ndjeshëm
-- Përfaqëson shtresën e varfër të shoqërisë
-- Karakterizohet nga vetmia dhe pafuqia
+**Problematika:** Varfëria ekstreme e Lulit; dallimet klasore mes fëmijëve; indiferenca e shoqërisë; sistemi që ofron mëshirë, jo zgjidhje reale.
 
-**Personazhe të tjera:**
-- *Mësuesi* — afrohet me mëshirë por nuk ofron zgjidhje reale
-- *Shokët* — përfaqësojnë dallimet klasore dhe privilegjin
+**Sistemi i personazheve:**
+- *Luli* – personazhi kryesor; i heshtur, i turpshëm dhe i vetmuar; përfaqëson shtresën e varfër.
+- *Shokët* – të pasur ose më të privilegjuar; përfaqësojnë kontrastin klasor.
+- *Mësuesi* – i butë dhe mëshirues; i pafuqishëm për të ndryshuar varfërinë.
 
-**Teknikat artistike:**
-- *Portreti:* Përshkrim i detajuar fizik — këmbët zbathura, hunda e kuqe, grishurat
-- *Simbolet:* Çizmet — simbolizojnë statusin social; Dielli — ngrohtësinë dhe lumturinë e paplotësuar; Tollumbat — fëmijërinë e humbur
-- *Kontrasti:* Fëmijët e pasur ↔ Luli i varfër; Dielli ngroh ↔ por jo Lulin
-- *Ironia:* Mëshira e mësuesit që nuk sjell ndryshim
+**Konflikti:**
+- *Konflikti i jashtëm:* Luli kundër realitetit të varfërisë dhe pabarazisë.
+- *Konflikti i brendshëm:* Dëshira për të pasur si shokët ↔ ndërgjegjësimi për varfërinë.
+- Konflikti është më shumë psikologjik dhe social sesa fizik.
 
-**Konflikti:** Konflikt social — Luli kundër pabarazisë dhe mungesës së mundësive.
+**Veçoritë artistike:**
+1. *Portreti:* Hundë picrrake, këmbë të zbathura, grushta të vegjël — domethënës për statusin e Lulit.
+2. *Peizazhi:* Dielli i vjeshtës simbolizon ngrohtësinë dhe shpresën.
+3. *Rrëfimi:* Në vetën e tretë; narratori ndërhyn me pyetje retorike.
+4. *Monologu i brendshëm:* Mendimet e Lulit për çizmet dhe mungesën e mundësive.
+5. *Antiteza:* Çizmet ↔ këmbët e zbathura; ngrohtësia ↔ ftohtësia e jetës.
+6. *Groteska:* Tollumbat që "hapin gojën" krijojnë imazh grotesk dhe dramatik.
 
-**Mesazhi:** Varfëria fëmijërore është akuzë e thellë ndaj shoqërisë. Fëmijëria duhet të jetë e ngrohtë dhe e sigurt për të gjithë, por realiteti krijon imazhe groteske dramatike. Heshtja e Lulit "hap gojën" — zbathura, ftohësia dhe vetmia janë akuzë shoqërore.`
+**Mesazhi:** Varfëria vret dinjitetin. Fëmijëria nuk duhet të jetë luftë për mbijetesë. Mëshira nuk mjafton; duhet ndryshim i thellë shoqëror. Luli hesht, por heshtja e tij është akuzë ndaj shoqërisë.
+
+*Punoi: Lorenc Halili*`
   },
   {
     id: "historiaENjenes",
