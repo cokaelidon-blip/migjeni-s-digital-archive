@@ -5,10 +5,20 @@ import QRCode from "react-qr-code";
 const BASE_URL = "https://migjeni.lovable.app";
 
 const qrItems = [
-  { label: "Pikturë — Fëmijët e rrugës", path: "/images/painting-1.jpeg" },
-  { label: "Pikturë — Nëna me fëmijë", path: "/images/painting-2.jpeg" },
-  { label: "Pikturë — Statuja e Migjenit", path: "/images/painting-3.jpeg" },
-  { label: "Pikturë — Mjellmat", path: "/images/painting-4.jpeg" },
+  { label: "Fëmijët e rrugës", path: "/images/painting-1.jpeg" },
+  { label: "Nëna me fëmijë", path: "/images/painting-2.jpeg" },
+  { label: "Statuja e Migjenit", path: "/images/painting-3.jpeg" },
+  { label: "Mjellmat", path: "/images/painting-4.jpeg" },
+  { label: "Fëmijët e rrugës II", path: "/images/painting-5.jpeg" },
+  { label: "Nëna dhe djali — Adela", path: "/images/painting-6.jpeg" },
+  { label: "Statuja dhe turma — Adela Neziri", path: "/images/painting-7.jpeg" },
+  { label: "Nata pa gjumë — Sabiola Hysa", path: "/images/painting-8.jpeg" },
+  { label: "Nëna me fëmijë — Orgesa Hata", path: "/images/painting-9.jpeg" },
+  { label: "Luhatja e lirë", path: "/images/painting-10.jpeg" },
+  { label: "Dritarja e shpresës", path: "/images/painting-11.jpeg" },
+  { label: "Mjellmat — Ode", path: "/images/painting-12.jpeg" },
+  { label: "Rruga e natës — Paula Xhaferi", path: "/images/painting-13.jpeg" },
+  { label: "Luli i Vocërr — Gabriela Lushi", path: "/images/painting-14.jpeg" },
 ];
 
 const QRGallerySection = () => {
@@ -32,7 +42,7 @@ const QRGallerySection = () => {
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-5xl mx-auto">
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mx-auto">
           {qrItems.map((item, index) => {
             const fullUrl = `${BASE_URL}${item.path}`;
             return (
@@ -41,13 +51,13 @@ const QRGallerySection = () => {
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
-                transition={{ delay: index * 0.1 }}
-                className="bg-card rounded-2xl p-6 border border-border shadow-lg flex flex-col items-center"
+                transition={{ delay: index * 0.05 }}
+                className="bg-card rounded-2xl p-5 border border-border shadow-lg flex flex-col items-center"
               >
                 <div className="bg-white p-3 rounded-xl mb-4">
-                  <QRCode value={fullUrl} size={120} />
+                  <QRCode value={fullUrl} size={110} />
                 </div>
-                <h3 className="font-playfair text-sm font-semibold text-foreground text-center mb-3">
+                <h3 className="font-playfair text-xs font-semibold text-foreground text-center mb-3 leading-tight">
                   {item.label}
                 </h3>
                 <a
