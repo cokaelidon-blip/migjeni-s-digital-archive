@@ -22,6 +22,7 @@ const Navbar = ({ onSearchOpen }: NavbarProps) => {
     { href: "#proza", label: "Proza" },
     { href: "#biografia", label: "Rreth Migjenit" },
     { href: "#galeri", label: "Galeria QR" },
+    { href: "#revista", label: "Revista" },
     { href: "#formulari", label: "Formulari" },
   ];
 
