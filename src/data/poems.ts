@@ -257,18 +257,19 @@ e dy buzve që pëshpërisin ngushllimin.`,
     text: `Poema e mjerimit është një pjesë e ciklit "Këngët e mjerimit", një ndër ciklet më të rëndësishme të krijimtarisë të Migjenit. Në këtë cikël poeti pasqyron realitetin e zymtë social të shoqërisë shqiptare të viteve '30, duke denoncuar varfërinë, padrejtësinë shoqërore, hipokrizinë fetare dhe indiferencën njerëzore.`,
     analysis: `**Tema:** Tema kryesore e poemës është mjerimi shoqëror dhe njerëzor, i shfaqur në të gjitha format e tij.
 
-**Subjekti:** Subjekti i poemes paraqet mjerimin si një realitet të gjithanshëm që shoqëron jetën e njeriut nga lindja deri në vdekje. Poema përshkruan vuajtjen e shtresave të varfra përmes pamjeve të urisë, sëmundjes, punës së rëndë pa shpërblim, degradimit moral dhe shpirtëror.
+**Subjekti:** Paraqet mjerimin si një realitet të gjithanshëm që shoqëron jetën e njeriut nga lindja deri në vdekje. Poema përshkruan vuajtjen e shtresave të varfra përmes pamjeve të urisë, sëmundjes, punës së rëndë pa shpërblim, degradimit moral dhe shpirtëror. Mjerimi shfaqet në fëmijërinë e dënuar që në djep, në rininë e shtyrë drejt epshit dhe alkoolit, si edhe në trashëgiminë e dhimbshme brez pas brezi.
 
-**Lloji i vargut:** Varg i lirë: Poezia nuk ndjek një metrikë të rregullt klasike, por ka gjatësi të ndryshme vargjesh. Ritmi ndërtohet më shumë mbi ngarkesën emocionale, përsëritjen e fjalëve ("Mjerimi…") dhe figurat stilistike.
+**Lloji i vargut:** Varg i lirë, pa numër të rregullt rrokjesh dhe pa rimë të qëndrueshme. Ritmi krijohet nga emocionet dhe përsëritjet e fjalëve ("Mjerimi…"). Ky lloj vargu i jep poezisë forcë shprehëse.
 
-**Rima:** Rima është e lirë dhe jo e rregullt. Në disa raste, Migjeni përdor asonanca dhe aliteracion për të krijuar muzikë të brendshme.
+**Rima e përdorur:** Rimë e lirë, jo e rregullt. Ka rimë të pjesshme: mjerimi – trishtimi; lagta – ndragta; mbesin – desin.
 
 **Figurat letrare:**
-- *Metafora:* "Kafshatë që s'kapërdihet asht mjerimi" — mjerimi paraqitet si diçka që të mbyt. "Gotë e helmit" — simbol i trashëgimisë së vuajtjes brez pas brezi.
-- *Personifikimi:* "Mjerimi tërbohet", "mjerimi punon", "mjerimi rrit fëmin" — mjerimi merr tipare njerëzore dhe shndërrohet në një qenie aktive, mizore.
-- *Simboli:* Djepi i skamit — fëmijëria e dënuar që në lindje. Zhelet — shpresa e shkatërruar dhe varfëria ekstreme. Gota — arratisja e rreme nga vuajtja përmes alkoolit.
-- *Epitetet:* "bark shekulluer", "tryezë e flliqtë", "pijetore të qelbta" - theksojnë neverinë dhe degradimin moral.
-- *Kontrasti:* Varfëria e lypsit — luksi i zotërinjve. Vuajtja njerëzore — heshtja fetare.
+- *Personifikimi:* "Mjerimi punon", "Mjerimi rrit fëmin", "Mjerimi ndez dëshirat"
+- *Metafora:* "Mjerimi asht një njollë e pashlyeme"
+- *Simboli:* gota → harresa e dhimbjes; djepi i skamit → lindja në varfëri
+- *Kontrasti:* jeta e të varfërve ↔ jeta e të pasurve në luks
+- *Hiperbola:* theksimi i madh i vuajtjes dhe dhimbjes.
+- *Epitetet:* "tavan i tymuem", "zhele të coptueme", "buzët e ndragta".
 
 **Mesazhi:** Mjerimi nuk kërkon mëshirë, por drejtësi. Migjeni dënon shoqërinë që pranon mjerimin si normalitet dhe kritikon ashpër institucionet fetare dhe shtresat e pasura që mbyllin sytë përballë vuajtjes njerëzore.
 
