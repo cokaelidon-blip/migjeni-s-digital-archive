@@ -15,15 +15,15 @@ const Footer = () => {
           </p>
 
           <div className="flex items-center gap-6">
-            <a href="#kreu" className="text-secondary-foreground/60 hover:text-primary text-sm transition-colors">
+            <button onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} className="text-secondary-foreground/60 hover:text-primary text-sm transition-colors">
               Kreu
-            </a>
-            <a href="#poezi" className="text-secondary-foreground/60 hover:text-primary text-sm transition-colors">
+            </button>
+            <button onClick={() => document.getElementById("poezi")?.scrollIntoView({ behavior: "smooth" })} className="text-secondary-foreground/60 hover:text-primary text-sm transition-colors">
               Poezi
-            </a>
-            <a href="#biografia" className="text-secondary-foreground/60 hover:text-primary text-sm transition-colors">
+            </button>
+            <button onClick={() => document.getElementById("biografia")?.scrollIntoView({ behavior: "smooth" })} className="text-secondary-foreground/60 hover:text-primary text-sm transition-colors">
               Biografia
-            </a>
+            </button>
             <a
               href="https://www.instagram.com/migjeni.1911"
               target="_blank"
