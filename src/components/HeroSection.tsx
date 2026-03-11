@@ -71,10 +71,10 @@ const HeroSection = ({
         duration: 0.8,
         delay: 0.6
       }} className="flex flex-col sm:flex-row items-center justify-center gap-4">
-          <a href="#poezi" className="group px-8 py-4 bg-primary hover:bg-primary/90 text-primary-foreground font-semibold rounded-full transition-all flex items-center gap-2">
+          <button onClick={() => document.getElementById("poezi")?.scrollIntoView({ behavior: "smooth" })} className="group px-8 py-4 bg-primary hover:bg-primary/90 text-primary-foreground font-semibold rounded-full transition-all flex items-center gap-2">
             Eksploro Veprat
             <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-          </a>
+          </button>
           <button onClick={onSearchOpen} className="px-8 py-4 border-2 border-secondary-foreground/30 hover:border-primary text-secondary-foreground hover:text-primary font-medium rounded-full transition-all">
             Kërko Poezi
           </button>
