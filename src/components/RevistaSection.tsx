@@ -20,7 +20,7 @@ const quizQuestions = [
   },
   {
     q: "4. Në cilin qytet ka jetuar dhe punuar si mësues Migjeni?",
-    options: ["a) Shkodër", "b) Pukë", "c) Korçë", "d) Vlorë"],
+    options: ["a) Tiranë", "b) Pukë", "c) Korçë", "d) Vlorë"],
     correct: 1,
   },
   {
