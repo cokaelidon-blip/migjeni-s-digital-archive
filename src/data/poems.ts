@@ -254,7 +254,111 @@ e dy buzve që pëshpërisin ngushllimin.`,
     emoji: "😢",
     author: "Gabriela Lushi",
     type: "poezi",
-    text: `Poema e mjerimit është një pjesë e ciklit "Këngët e mjerimit", një ndër ciklet më të rëndësishme të krijimtarisë të Migjenit. Në këtë cikël poeti pasqyron realitetin e zymtë social të shoqërisë shqiptare të viteve '30, duke denoncuar varfërinë, padrejtësinë shoqërore, hipokrizinë fetare dhe indiferencën njerëzore.`,
+    text: `Kafshatë që s'kapërdihet asht, or vlla, mjerimi,
+kafshatë që të mbetë në fyt edhe të ze trishtimi
+kur shef ftyra të zbeta edhe sy të jeshilta
+që të shikojnë si hije dhe shtrijnë duert e mpita
+edhe ashtu të shtrime mbrapa teje mbesin
+të tanë jetën e vet derisa të vdesin.
+E mbi ta n'ajri, si në qesëndi,
+therin qiellën kryqat e minaret e ngurta,
+profetënt dhe shejtënt në fushqeta të shumngjyrta shkëlqejnë.
+E mjerimi mirfilli ndien tradhti.
+Mjerimi ka vulën e vet të shëmtueme;
+asht e neveritshme, e keqe, e turpshme;
+balli që e ka, syt që e shprehin,
+buzët që më kot mundohen ta mshefin
+janë fëmitë e padijes e flitë e përbuzjes,
+të mbetunat e flliqta rreth e përqark tryezës
+mbi të cilën hangri darkën një qen e pamshirshëm
+me bark shekulluer, gjithmon i pangishëm.
+Mjerimi s'ka fat. Por ka vetëm zhele,
+zhele fund e majë, flamujt e një shprese
+të shkyme dhe të coptuem me të dalun bese.
+Mjerimi tërbohet në dashuni epshore.
+Nëpër skaje t'errta, bashkë me qej, mij, mica,
+mbi pecat e mykta, të qelbta, të ndyta, të lagta
+lakuriqen mishnat, si zhangë; të verdhë e pisa;
+kapërthehen ndjenjat me fuqi shtazore,
+kafshojnë, përpijnë, thithen, puthen buzët e ndragta
+edhe shuhet uja, dhe fashitet etja
+n'epshin kapërthyes, kur mbytet vetvetja.
+Dhe aty zajnë fillin të marrët, shërbtorët dhe lypsat
+që nesër do linden me na i mbushë rrugat.
+Mjerimi në dritzën e synit te kërthini
+dridhet posi flaka e mekun qirini
+nën tavan të tymuem dhe plot merimanga,
+ku hije njerzish dridhen ndër mure plot danga,
+ku foshnja e smueme qan si shpirt' i keq
+tu' ndukë gjitë e shterruna të së zezës amë,
+e kjo prap shtazanë, mallkon zot e dreq,
+mallkon frytn e vet, mallkon barrn e randë.
+Foshnj' e saj nuk qesh, por vetëm lëngon,
+e ama s'e don, por vetëm mallkon.
+Vall sa i trishtueshëm asht djepi i skamit
+ku foshnjën përkundin lott edhe të fshamit!
+Mjerimi rrit fëmin në hijen e shtëpive
+të nalta, ku nuk mrrin zani i lypsis,
+ku nuk mund t'u prishet qetsia zotnive
+kur bashkë me zoja flejnë në shtretënt e lumnis.
+Mjerimi pjek fëmin para se të burrnohet;
+don ta msojë t'i iki grushtit q'i kërcnohet,
+atij grusht që në gjumë e shtërngon për fytit
+kur fillojnë kllapitë e etheve prej unit
+dhe fytyrën e fëmis e mblon hij' e vdekjes,
+një stoli e kobshme në vend të buzqeshjes.
+Një fryt kurse piqet dihet se ku shkon
+qashtu edhe fëmia në bark të dheut mbaron.
+Mjerimi punon, punon dit e natë
+tu' i vlue djersa në gjoks edhe në ballë,
+tue u zhigatun deri në gjujë në baltë
+e prap zorrët nga uja i bahen palë-palë.
+Shpërblim qesharak! Për qindenjë afsh
+në ditë vetëm: lekë tre-katër dhe "marsh!".
+Mjerimi kaiher' i ka faqet e lustrueme,
+buzët e pezmatueme, mollzat e ngjyrueme,
+trupin përmendore e një tregtis së ndytë,
+që asht i gjikuem të bijë në shtrat të vet i dytë;
+dhe për at shërbim ka për të marrë do franga
+ndër çarçafë, ndër fëtyra dhe në ndërgjegje danga.
+Mjerimi gjithashtu len dhe në trashigim
+jo veç nëpër banka dhe në gja të patundshme,
+por eshtnat e shtrembta e në gjoks ndoj dhimbë,
+mund që të len kujtim ditën e dikurshme
+kur pullaz' i shtëpis u shemb edhe ra
+nga kalbsin' e kohës, nga pesha e qiellit,
+kur mbi gjithçka u ndi një i tmerrshmi za
+plot mallkim dhe lutje si nga fund i ferrit,
+ish zan' i njeriut që vdiste nën tra.
+Kështu nën kambë të randë të zotit t'egërsuem
+thotë prifti vdes ai që çon jetë të dhunuem.
+Dhe me këto kujtime, ksi lloj fatkeqësinash
+mbushet got' e helmit në trashigim brezninash.
+Mjerimi ka motër ngushulluese gotën.
+Në pijetore të qelbta, pranë tryezës plot zdrale
+të neveritshme, shpirti me etje derdh gotën
+në fyt për me harrue nandhetenand' halle.
+E gota e turbull, gota satanike
+tu' e ledhatue e pickon si gjarpni
+dhe kur bie njeriu, si gruni nga drapni,
+nën tryezë qan-qeshet në formë tragjikomike.
+Të gjitha hallet skami në gotë i mbyt
+kur njëqind i derdh një nga një në fyt.
+Mjerimi ndez dëshirat si hyjet errsina
+dhe bajnë tym si hejt q'i ban shkrum shkreptima.
+Mjerimi s'ka gëzim, por ka vetëm dhimba,
+dhimba paduruese që të bajnë të çmendesh,
+që t'apin litarin të shkojsh fill' e të varesh
+ose bahe fli e mjerë e paragrafesh.
+Mjerimi s'don mshirë. Por don vetëm të drejt!
+Mshirë? Bijë bastardhe e etënve dinakë,
+të cilt në mnyrë pompoze posi farisejt
+i bijnë lodërtinës me ndjejt dhelparak
+tu' ia lëshue lypsiti një grosh të holl' në shplakë.
+Mjerimi asht një njollë e pashlyeme
+në ballë të njerzimit që kalon nëpër shekuj.
+Dhe kët njollë kurr nuk asht e mundshme
+ta shlyejnë paçavrat që zunë myk ndër tempuj.`,
     analysis: `**Tema:** Tema kryesore e poemës është mjerimi shoqëror dhe njerëzor, i shfaqur në të gjitha format e tij.
 
 **Subjekti:** Paraqet mjerimin si një realitet të gjithanshëm që shoqëron jetën e njeriut nga lindja deri në vdekje. Poema përshkruan vuajtjen e shtresave të varfra përmes pamjeve të urisë, sëmundjes, punës së rëndë pa shpërblim, degradimit moral dhe shpirtëror. Mjerimi shfaqet në fëmijërinë e dënuar që në djep, në rininë e shtyrë drejt epshit dhe alkoolit, si edhe në trashëgiminë e dhimbshme brez pas brezi.
