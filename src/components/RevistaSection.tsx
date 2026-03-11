@@ -20,7 +20,7 @@ const quizQuestions = [
   },
   {
     q: "4. Në cilin qytet ka jetuar dhe punuar si mësues Migjeni?",
-    options: ["a) Shkodër", "b) Pukë", "c) Korçë", "d) Vlorë"],
+    options: ["a) Tiranë", "b) Pukë", "c) Korçë", "d) Vlorë"],
     correct: 1,
   },
   {
@@ -193,6 +193,22 @@ const comparisons = [
       "Migjeni pasqyron dhimbjen konkrete shoqërore, Kamy krizën universale filozofike",
       "Kamy përdor konceptin e absurdit, Migjeni denoncimin e drejtpërdrejtë",
       "Migjeni synon zgjimin e ndërgjegjes shoqërore, Kamy të shpjegojë ekzistencën",
+    ],
+  },
+  {
+    title: "Migjeni dhe Artur Rembo",
+    icon: "🔥",
+    shared: [
+      "Rebelimi si pikënisje poetike — poezia si akt rebelimi, jo zbukurim estetik",
+      "Thyerja e normave tradicionale — refuzojnë format klasike, sjellin poezi të ashpër dhe tronditëse",
+      "Figura të errëta dhe vizione tronditëse — gjuhë e fortë, metafora dhimbjeje",
+      "Poeti si zë i vuajtjes njerëzore — flasin në emër të të shtypurve dhe të harruarve",
+    ],
+    differences: [
+      "Migjeni pasqyron realitet konkret shqiptar, Rembo shpik botë simbolike",
+      "Migjeni bën revoltë sociale, Rembo kërkon çlirimin metafizik të shpirtit",
+      "Migjeni zgjedh gjuhë të drejtpërdrejtë dhe realiste, Rembo fshihet pas simbolikës së errët",
+      "Migjeni mbetet zë unik origjinal i letërsisë shqipe, jo imitim evropian",
     ],
   },
 ];

@@ -6,15 +6,15 @@ const BASE_URL = "https://migjeni.lovable.app";
 
 const qrItems = [
   { label: "Fëmijët e rrugës", path: "/images/painting-5.jpeg" },
-  { label: "Nëna dhe djali — Adela", path: "/images/painting-6.jpeg" },
-  { label: "Statuja dhe turma — Adela Neziri", path: "/images/painting-7.jpeg" },
-  { label: "Nata pa gjumë — Sabiola Hysa", path: "/images/painting-8.jpeg" },
-  { label: "Nëna me fëmijë — Orgesa Hata", path: "/images/painting-9.jpeg" },
+  { label: "Nëna dhe djali", path: "/images/painting-6.jpeg" },
+  { label: "Statuja dhe turma", path: "/images/painting-7.jpeg" },
+  { label: "Nata pa gjumë", path: "/images/painting-8.jpeg" },
+  { label: "Nëna me fëmijë", path: "/images/painting-9.jpeg" },
   { label: "Luhatja e lirë", path: "/images/painting-10.jpeg" },
   { label: "Dritarja e shpresës", path: "/images/painting-11.jpeg" },
   { label: "Mjellmat", path: "/images/painting-12.jpeg" },
-  { label: "Rruga e natës — Paula Xhaferi", path: "/images/painting-13.jpeg" },
-  { label: "Luli i Vocërr — Gabriela Lushi", path: "/images/painting-14.jpeg" },
+  { label: "Rruga e natës", path: "/images/painting-13.jpeg" },
+  { label: "Luli i Vocërr", path: "/images/painting-14.jpeg" },
 ];
 
 const QRGallerySection = () => {
