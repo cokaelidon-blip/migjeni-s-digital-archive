@@ -4,9 +4,9 @@ import HeroSection from "@/components/HeroSection";
 import PoetrySection from "@/components/PoetrySection";
 import ProseSection from "@/components/ProseSection";
 import BiographySection from "@/components/BiographySection";
+import VideoSection from "@/components/VideoSection";
 import QRGallerySection from "@/components/QRGallerySection";
 import RevistaSection from "@/components/RevistaSection";
-import FormSection from "@/components/FormSection";
 import SearchModal from "@/components/SearchModal";
 import PoemModal from "@/components/PoemModal";
 import Footer from "@/components/Footer";
@@ -27,10 +27,9 @@ const Index = () => {
       <PoetrySection onPoemSelect={handlePoemSelect} />
       <ProseSection onPoemSelect={handlePoemSelect} />
       <BiographySection />
+      <VideoSection />
       <QRGallerySection />
       <RevistaSection />
-      <FormSection />
-      <Footer />
 
       <SearchModal
         isOpen={searchOpen}
@@ -38,6 +37,7 @@ const Index = () => {
         onPoemSelect={handlePoemSelect}
       />
       <PoemModal poem={selectedPoem} onClose={() => setSelectedPoem(null)} />
+      <Footer />
     </div>
   );
 };

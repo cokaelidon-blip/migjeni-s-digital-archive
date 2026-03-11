@@ -577,17 +577,38 @@ Nganjëherë i afrohet mësuesi Lulit. Dhe kur e ka ftyrën e dlirtë dhe pa pu�
     emoji: "💔",
     author: "Emanuel Molla",
     type: "proze",
-    text: `Kjo pjesë rrëfen historinë tragjike të Lukes, një grua e shtyrë nga varfëria të bëhet prostitutë. Ajo shfrytëzohet nga shoqëria, ëndërron një jetë të qetë familjare, por përfundon e zhgënjyer, e varfëruar dhe në fund çmendet.
-
-Lukja ishte vajzë e varfër. Jeta ia kishte mbyllur të gjitha dyert. Shoqëria e shikonte me përbuzje, por njëkohësisht e shfrytëzonte. Studentët dhe klientët e quan "hyjneshë" — por vetëm sa ishte mall tregu.
-
-Ajo kurseu para — napolona — me shpresën se do të shpëtonte. Me ato para u martua me një kallajxhi. Dëshironte një jetë normale, familjare, me dinjitet.
-
-Por martesa dështoi. Burri i saj ishte i pafuqishëm ekonomikisht. Paratë u shpenzuan. Ëndrrat u thyen. Lukja ra përsëri në mjerim — më thellë se kurrë.
-
-Në fund, Lukja çmendet. Ecën nëpër rrugë duke qeshur: "Hi-hi-hi..." — një qeshje që nuk ishte gëzim, por shkatërrimi i plotë i një shpirti njerëzor.
-
-Autori paraqet dramën e individit që shkatërrohet nga kushtet sociale dhe ekonomike. Nuk e gjykon Luken, por e mëshiron dhe e kupton.`,
+    text: `— Shko, se asht bamë vonë… Tash asht kohë me t'ardhë yt atë. Në këto fjalë plaste gazi e rrallë ngjante që t'idhnohej djali tue thanë:
+— Baba i em asht i ndershëm, nuk asht si unë…
+Atëherë shokët dhe Lukja vetë qesheshin ma me zemër për trashamansinë, idiotizmën e shokut.
+Ndonjeni për tallje e pyette Luken:
+— Luke, ku e ke, pash zotin, xhybletën?
+— Hajde me e pa në dhomë…
+— Me gjith qejf.
+— Po a ke tre frangë?
+— Po, kam tre lekë…
+— Hik, more zog… me tre lekë don me pa Amerikën…
+Por thash se Lukja ishte ma humanitare se ata të cilve u duhet ashtu me qenë. Ndoj të ri, që s'e fitonte lekun vetë, e pranonte edhe me tre lekë, natyrisht kur kish nge.
+Reth emnit Luke, veçanërisht rreth trupit të saj, ishte krijue njëfare aureole (nimbusi) si rreth krenave të shejtënve. Aq sa ndonjenit i vinte dhe keq që e quejnë kurvë, dhe mundoheshin ta zbusin kuptimin e fjalës tue i thanë prostitutë, grue publike, grue problematike - me emna të cilät i kishin gjetë tue lexue libra. Sidomos njenit, i cili nuk shiptonte kurr fjalë të ndyeta, i vinte keq ta quejshin Luken kurvë. Vetë ai le që s'e quente kurr, por edhe kur thoshte kush, atij i dhimbste veshi sikur gërdhishte kush sahanin me majë të pirunit. Fjala kurvë ishte për të një disonancë e vrazhdë në melodinë harmonike që premtonte Lukja. Me e quejtë Luken kurvë, i dukej njësoj si me e quejtë priftin grue pse ka veshë ragjen (veladonin). Ai edhe e përhapi ndër shokë fjalën prostitutë. Sentimentalizma e të rijve për Luken shkonte edhe ma thellë; shpeshherë rrifeshin shoq me shoq vetëm e vetëm për hatrin e saj.
+* * *
+Në një katund që don të quhet qytet. Stacion i fundit automobili. Mbrapa nga lindja s'ka ma rrugë të gjana, por rrugë kuajsh. Njerzit që vijnë në këto ane, vijnë vetëm nga shtërngesa e jetëses. (Mund të shifet edhe ndoj turist i huej).
+Një ditë kur automobili i postës nisej nga katundi që don të quhet qytet, për qendër prefekture, erdhi në mes dy gjindarmve, një grue me duer lidhë.
+— U, Lukja, - briti njeni nga njerzit që ishin mbledhë rreth automobilit.
+— Po nga kjo kështu?
+— Ku paska qenë?
+— Pse me dy gjindarmët?
+— Pska ba ndoj horrllek
+— Shiko, edhe duert ia paskan lidhë…
+E Lukja, nga ana e saj, shikonte njerzit dhe buzqeshte.
+— U, pse m'i kanë lidhë duert - ej? - Hihi…
+— Paska dale menç, - u dëgjue nga turma.
+— E shkreta, - tha një malsore tue kalue me barrë karthijash mbi shpinë.
+Dhe njerzit filluen të lozin me fjalë, tue ia kujtue Lukes së çmendun jetën e kalueme. E ajo, shikonte me at shikim të marrit dhe buzëqeshte:
+— Hi-hi-hi… Po pse m'i kane lidhë duert… hi-hi-hi.
+Një dialosh, giysmë nëpunsi, s'di, seriozisht apo për tallje, ia dorzoi një tufë lule të veshkuna - s'di se ku i kish gjet. E ajo me një levizje komplimentuese tue buzqeshë, e falnderoi:
+— Falemnderes, i dashtuni zotni! Hi-hi-hi - dhe mundohej t'i mbajë lulet drejt ndër duert e lidhuna.
+Automobili u nis. Dhe Lukja, me ftyrë të nxime nga vuejia, me ata sy të marri me at hi-hi-hi, shkoi në çmendinë. Në çmendinë me at hi-hi-hi ka me tregue historinë e jetës së vet. Por të paket kanë me qenë ata që kane me e kuptue at' hi-hi-hi.
+Burri i saj, kallajxhiu vagabond (shëtitës), atje, në ndoj fshat të humbun të malsis, nga e kish dërgue Luken në çmendinë, kallajiste dhe ndoshta qeshte për fatin e një kurvës që ishte grueja e tij:
+— Shyqyr, u shporra soje.`,
     analysis: `**Tema kryesore:** Mjerimi dhe padrejtësia sociale, shfrytëzimi i gruas, hipokrizia e shoqërisë, shkatërrimi i ëndrrave njerëzore.
 
 **Lloji i veprës:** Prozë e shkurtër (novelë realiste me frymë kritike sociale).

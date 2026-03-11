@@ -4,8 +4,8 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row items-center justify-between gap-8">
           <div className="flex items-center space-x-3">
-            <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center">
-              <span className="font-playfair text-primary-foreground text-xl font-bold">M</span>
+            <div className="w-10 h-10 rounded-full overflow-hidden">
+              <img src="/images/migjeni-face-footer.jpg" alt="Migjeni" className="w-full h-full object-cover" />
             </div>
             <span className="font-playfair text-xl font-semibold">Migjeni</span>
           </div>
