@@ -50,21 +50,21 @@ const QRGallerySection = () => {
                 transition={{ delay: index * 0.05 }}
                 className="bg-card rounded-2xl p-5 border border-border shadow-lg flex flex-col items-center"
               >
-                <div className="bg-white p-3 rounded-xl mb-4">
+              <div className="bg-white p-3 rounded-xl mb-4">
                   <QRCode value={qrUrl} size={110} />
                 </div>
-                <h3 className="font-playfair text-xs font-semibold text-foreground text-center mb-3 leading-tight">
-                  {item.label}
-                </h3>
                 <a
                   href={item.path}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1.5 px-4 py-2 bg-primary text-primary-foreground text-xs font-medium rounded-lg hover:bg-primary/90 transition-colors"
+                  className="inline-flex items-center gap-1.5 px-4 py-2 bg-primary text-primary-foreground text-xs font-medium rounded-lg hover:bg-primary/90 transition-colors mb-3"
                 >
                   <ExternalLink className="w-3.5 h-3.5" />
                   Hap Foton
                 </a>
+                <h3 className="font-playfair text-xs font-semibold text-foreground text-center leading-tight">
+                  {item.label}
+                </h3>
               </motion.div>
             );
           })}

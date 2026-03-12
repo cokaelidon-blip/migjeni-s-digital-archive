@@ -181,21 +181,6 @@ const comparisons = [
     ],
   },
   {
-    title: "Migjeni dhe Albert Kamy",
-    icon: "🌍",
-    shared: [
-      "Trajtimi i vuajtjes njerëzore si element qendror",
-      "Njeriu i shtypur nga rrethana të padrejta",
-      "Refuzojnë idealizimin e realitetit",
-      "Fryma e revoltës e vetëdijshme dhe kritike",
-    ],
-    differences: [
-      "Migjeni pasqyron dhimbjen konkrete shoqërore, Kamy krizën universale filozofike",
-      "Kamy përdor konceptin e absurdit, Migjeni denoncimin e drejtpërdrejtë",
-      "Migjeni synon zgjimin e ndërgjegjes shoqërore, Kamy të shpjegojë ekzistencën",
-    ],
-  },
-  {
     title: "Migjeni dhe Artur Rembo",
     icon: "🔥",
     shared: [
@@ -209,6 +194,21 @@ const comparisons = [
       "Migjeni bën revoltë sociale, Rembo kërkon çlirimin metafizik të shpirtit",
       "Migjeni zgjedh gjuhë të drejtpërdrejtë dhe realiste, Rembo fshihet pas simbolikës së errët",
       "Migjeni mbetet zë unik origjinal i letërsisë shqipe, jo imitim evropian",
+    ],
+  },
+  {
+    title: "Migjeni dhe Albert Kamy",
+    icon: "🌍",
+    shared: [
+      "Trajtimi i vuajtjes njerëzore si element qendror",
+      "Njeriu i shtypur nga rrethana të padrejta",
+      "Refuzojnë idealizimin e realitetit",
+      "Fryma e revoltës e vetëdijshme dhe kritike",
+    ],
+    differences: [
+      "Migjeni pasqyron dhimbjen konkrete shoqërore, Kamy krizën universale filozofike",
+      "Kamy përdor konceptin e absurdit, Migjeni denoncimin e drejtpërdrejtë",
+      "Migjeni synon zgjimin e ndërgjegjes shoqërore, Kamy të shpjegojë ekzistencën",
     ],
   },
 ];
