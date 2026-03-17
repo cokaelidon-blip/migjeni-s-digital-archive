@@ -52,7 +52,9 @@ const PoemModal = ({ poem, onClose }: PoemModalProps) => {
                 <div className="p-8">
                   <div className="flex items-center gap-2 text-primary mb-4">
                     <BookOpen className="w-4 h-4" />
-                    <span className="text-sm font-medium uppercase tracking-widest">Poezia</span>
+                    <span className="text-sm font-medium uppercase tracking-widest">
+                      {poem.type === "proze" ? "Proza" : "Poezia"}
+                    </span>
                   </div>
                   <div className="font-playfair text-foreground text-lg leading-relaxed italic whitespace-pre-line">
                     {poem.text}

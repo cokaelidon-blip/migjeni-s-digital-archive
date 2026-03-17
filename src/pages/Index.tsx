@@ -24,9 +24,9 @@ const Index = () => {
     <div className="min-h-screen">
       <Navbar onSearchOpen={() => setSearchOpen(true)} />
       <HeroSection onSearchOpen={() => setSearchOpen(true)} />
+      <BiographySection />
       <PoetrySection onPoemSelect={handlePoemSelect} />
       <ProseSection onPoemSelect={handlePoemSelect} />
-      <BiographySection />
       <VideoSection />
       <QRGallerySection />
       <RevistaSection />
