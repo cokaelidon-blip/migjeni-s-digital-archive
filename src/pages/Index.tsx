@@ -31,6 +31,11 @@ const Index = () => {
     <div className="min-h-screen">
       <Navbar onSearchOpen={() => setSearchOpen(true)} />
       <HeroSection onSearchOpen={() => setSearchOpen(true)} />
+      <div className="w-full">
+        <video autoPlay muted playsInline className="w-full" preload="auto">
+          <source src="/videos/hyrja.mp4" type="video/mp4" />
+        </video>
+      </div>
       <SectionDivider />
       <BiographySection />
       <SectionDivider />
