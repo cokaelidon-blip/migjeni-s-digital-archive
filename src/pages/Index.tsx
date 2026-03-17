@@ -31,11 +31,15 @@ const Index = () => {
     <div className="min-h-screen">
       <Navbar onSearchOpen={() => setSearchOpen(true)} />
       <HeroSection onSearchOpen={() => setSearchOpen(true)} />
-      <div className="w-full">
-        <video autoPlay muted playsInline className="w-full" preload="auto">
-          <source src="/videos/hyrja.mp4" type="video/mp4" />
-        </video>
-      </div>
+      <section className="py-12 px-4 bg-muted/50">
+        <div className="max-w-3xl mx-auto">
+          <div className="bg-card rounded-2xl overflow-hidden shadow-lg border border-border">
+            <video autoPlay muted playsInline controls className="w-full aspect-video bg-black" preload="auto">
+              <source src="/videos/hyrja.mp4" type="video/mp4" />
+            </video>
+          </div>
+        </div>
+      </section>
       <SectionDivider />
       <BiographySection />
       <SectionDivider />
