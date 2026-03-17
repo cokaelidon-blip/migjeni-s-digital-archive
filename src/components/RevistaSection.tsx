@@ -164,6 +164,22 @@ const comparisons = [
     ],
   },
   {
+    title: "Migjeni dhe Artur Rembo",
+    icon: "🔥",
+    shared: [
+      "Rebelimi si pikënisje poetike — poezia si akt rebelimi, jo zbukurim estetik",
+      "Thyerja e normave tradicionale — refuzojnë format klasike, sjellin poezi të ashpër dhe tronditëse",
+      "Figura të errëta dhe vizione tronditëse — gjuhë e fortë, metafora dhimbjeje",
+      "Poeti si zë i vuajtjes njerëzore — flasin në emër të të shtypurve dhe të harruarve",
+    ],
+    differences: [
+      "Migjeni pasqyron realitet konkret shqiptar, Rembo shpik botë simbolike",
+      "Migjeni bën revoltë sociale, Rembo kërkon çlirimin metafizik të shpirtit",
+      "Migjeni zgjedh gjuhë të drejtpërdrejtë dhe realiste, Rembo fshihet pas simbolikës së errët",
+      "Migjeni mbetet zë unik origjinal i letërsisë shqipe, jo imitim evropian",
+    ],
+  },
+  {
     title: "Migjeni dhe Lasgush Poradeci",
     icon: "🌊",
     shared: [
@@ -178,22 +194,6 @@ const comparisons = [
       "Migjeni përqendrohet te problemet shoqërore, Lasgushi te bota e brendshme",
       "Migjeni ka frymë pesimiste, Lasgushi frymë harmonike dhe meditative",
       "Migjeni përdor vargun e lirë, Lasgushi vargun e rregullt me rime",
-    ],
-  },
-  {
-    title: "Migjeni dhe Artur Rembo",
-    icon: "🔥",
-    shared: [
-      "Rebelimi si pikënisje poetike — poezia si akt rebelimi, jo zbukurim estetik",
-      "Thyerja e normave tradicionale — refuzojnë format klasike, sjellin poezi të ashpër dhe tronditëse",
-      "Figura të errëta dhe vizione tronditëse — gjuhë e fortë, metafora dhimbjeje",
-      "Poeti si zë i vuajtjes njerëzore — flasin në emër të të shtypurve dhe të harruarve",
-    ],
-    differences: [
-      "Migjeni pasqyron realitet konkret shqiptar, Rembo shpik botë simbolike",
-      "Migjeni bën revoltë sociale, Rembo kërkon çlirimin metafizik të shpirtit",
-      "Migjeni zgjedh gjuhë të drejtpërdrejtë dhe realiste, Rembo fshihet pas simbolikës së errët",
-      "Migjeni mbetet zë unik origjinal i letërsisë shqipe, jo imitim evropian",
     ],
   },
   {
