@@ -55,6 +55,11 @@ const Index = () => {
         onPoemSelect={handlePoemSelect}
       />
       <PoemModal poem={selectedPoem} onClose={() => setSelectedPoem(null)} />
+      <div className="w-full">
+        <video autoPlay muted playsInline className="w-full" preload="auto">
+          <source src="/videos/mbyllja.mp4" type="video/mp4" />
+        </video>
+      </div>
       <Footer />
     </div>
   );
