@@ -10,7 +10,14 @@ import RevistaSection from "@/components/RevistaSection";
 import SearchModal from "@/components/SearchModal";
 import PoemModal from "@/components/PoemModal";
 import Footer from "@/components/Footer";
+import { Separator } from "@/components/ui/separator";
 import { Poem } from "@/data/poems";
+
+const SectionDivider = () => (
+  <div className="max-w-5xl mx-auto px-4">
+    <Separator className="bg-border/60" />
+  </div>
+);
 
 const Index = () => {
   const [searchOpen, setSearchOpen] = useState(false);
@@ -24,11 +31,17 @@ const Index = () => {
     <div className="min-h-screen">
       <Navbar onSearchOpen={() => setSearchOpen(true)} />
       <HeroSection onSearchOpen={() => setSearchOpen(true)} />
+      <SectionDivider />
       <BiographySection />
+      <SectionDivider />
       <PoetrySection onPoemSelect={handlePoemSelect} />
+      <SectionDivider />
       <ProseSection onPoemSelect={handlePoemSelect} />
+      <SectionDivider />
       <VideoSection />
+      <SectionDivider />
       <QRGallerySection />
+      <SectionDivider />
       <RevistaSection />
 
       <SearchModal
