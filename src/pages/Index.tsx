@@ -50,6 +50,8 @@ const Index = () => {
       <SectionDivider />
       <VideoSection />
       <SectionDivider />
+      <DictionarySection />
+      <SectionDivider />
       <QRGallerySection />
       <SectionDivider />
       <RevistaSection />
