@@ -6,6 +6,7 @@ import ProseSection from "@/components/ProseSection";
 import BiographySection from "@/components/BiographySection";
 import VideoSection from "@/components/VideoSection";
 import QRGallerySection from "@/components/QRGallerySection";
+import DictionarySection from "@/components/DictionarySection";
 import RevistaSection from "@/components/RevistaSection";
 import SearchModal from "@/components/SearchModal";
 import PoemModal from "@/components/PoemModal";
