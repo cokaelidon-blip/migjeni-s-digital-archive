@@ -58,7 +58,7 @@ const HeroSection = ({
         delay: 0.4
       }} className="font-playfair text-xl sm:text-2xl text-secondary-foreground/80 italic max-w-3xl mx-auto leading-relaxed mb-12">
           <span className="text-4xl text-primary/40 font-playfair">"</span>
-          Nuk jam unë poeti qi këndon me zemër t'gëzueme kangë t'ëmbla dashunije. Jam poeti qi këndon kangën e mjerimit t'math.
+          Nuk jam unë poeti që këndon me zemër t'gëzueme kangë t'ëmbla dashunije. Jam poeti që këndon kangën e mjerimit t'math.
         </motion.p>
 
         <motion.div initial={{
